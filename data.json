@@ -1,1 +1,3180 @@
-{"board_features":{"count_up":true,"day_compare_chart":true,"day_roster_best_total":true,"experiment":true,"grok_ambient":true,"live_pulse":true,"marker_class":"xvs-dash-2026","no_hits_reasons":true,"self_quote_badge":true,"theme_toggle":true,"themes":["night","day"],"top10_drafts_v4":true,"trend_keywords":true,"trend_radar":true,"week_month_boards":true,"week_strip":true,"x_keyword_table":true},"brand_handle":"@TechyBee7e","brand_title":"Techy Bee X Virality Score","date":"2026-10-26","day_roster":[],"hits":[],"hits_count":0,"leaderboards":{"as_of":"2026-10-26","days_included":[],"month":{"entries":[],"label":"October 2026","range":[]},"month_days_included":[],"tracking_start":"2026-10-27","week":{"entries":[],"label":"Rolling week","range":[]}},"narrative_synthesis":"","no_hits":[],"operator":{"handle":"@TechyBee7e","name":"Techy Bee","profile_url":"https://x.com/TechyBee7e"},"outsiders":[],"outsiders_count":0,"patterns":[],"previous_day":null,"timezone":"Asia/Karachi","title":"Daily X narrative digest — 2026-10-26","trend_input_only_posts":[],"ui":{"default_theme":"night"},"updated":"2026-10-26T23:30:00+05:00","virals":[],"virals_narrative":"","virals_target":20,"virals_window":"last ~48h","you_rank":null}
+{
+  "board_features": {
+    "count_up": true,
+    "day_compare_chart": true,
+    "day_roster_best_total": true,
+    "experiment": true,
+    "grok_ambient": true,
+    "live_pulse": true,
+    "marker_class": "xvs-dash-2026",
+    "no_hits_reasons": true,
+    "self_quote_badge": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "week_month_boards": true,
+    "week_strip": true,
+    "x_keyword_table": true
+  },
+  "brand_handle": "@TechyBee7e",
+  "brand_title": "Techy Bee X Virality Score",
+  "date": "2026-10-26",
+  "day_roster": [],
+  "hits": [
+    {
+      "handle": "@emollick",
+      "name": "Ethan Mollick",
+      "display_name": "Ethan Mollick",
+      "views": 178291,
+      "url": "https://x.com/emollick/status/2114503849826549842",
+      "status_url": "https://x.com/emollick/status/2114503849826549842",
+      "posted_at": "2026-10-25T23:46:00Z",
+      "text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\" You do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+      "full_text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\" You do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+      "original_en": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\" You do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Ask how to make your AI work even more ambitious, until you hit the frontier.",
+      "views_label": "178.3K",
+      "board_rank": 9,
+      "draft_en": "My rule for using AI on anything: keep asking how to make the work even more ambitious. You either run into a wall, and now you know where the frontier sits, or you learn the AI could do far more than you assumed.",
+      "draft_keywords": [
+        "ambitious"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.025,
+        "word_overlap": 0.333,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@levelsio",
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "views": 86619,
+      "url": "https://x.com/levelsio/status/2114431852517724181",
+      "status_url": "https://x.com/levelsio/status/2114431852517724181",
+      "posted_at": "2026-10-25T19:00:00Z",
+      "text": "I'm doing the same with my house 😍",
+      "full_text": "I'm doing the same with my house 😍",
+      "original_en": "I'm doing the same with my house 😍",
+      "media": "image (quoted post)",
+      "self_quote": false,
+      "hook": "Quoting a report on fortified, self-sufficient bases: doing the same with my house.",
+      "views_label": "86.6K",
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "views": 30500,
+      "url": "https://x.com/tdinh_me/status/2114623624267407864",
+      "status_url": "https://x.com/tdinh_me/status/2114623624267407864",
+      "posted_at": "2026-10-26T07:42:00Z",
+      "text": "NEW APP!!! 🚀\nIn the age of security incidents, I figured we need to be more careful with how we treat secrets in our clipboard.\nSo I built this: ClipAudit.app (macOS app)\n- It automatically detects 713 types of API keys and secrets and conceals them from other apps that read your clipboard in under <1ms.\n- Detect and scrubs secrets out of your shell history (bash, zsh, etc.).\n- Secrets in your clipboard will auto-clear after 90s, and accessing them again requires Touch ID.\n- Hide your secrets while you are in screen recording or screen sharing mode.\n- Everything is 100% offline, on-device processing, and encrypted with macOS Keychain.\nClipAudit is also a fully featured clipboard manager, so now I replace Alfred / Raycast with this!\nCheck it out 👉 ClipAudit.app\nLet me know what you think! 😄",
+      "full_text": "NEW APP!!! 🚀\nIn the age of security incidents, I figured we need to be more careful with how we treat secrets in our clipboard.\nSo I built this: ClipAudit.app (macOS app)\n- It automatically detects 713 types of API keys and secrets and conceals them from other apps that read your clipboard in under <1ms.\n- Detect and scrubs secrets out of your shell history (bash, zsh, etc.).\n- Secrets in your clipboard will auto-clear after 90s, and accessing them again requires Touch ID.\n- Hide your secrets while you are in screen recording or screen sharing mode.\n- Everything is 100% offline, on-device processing, and encrypted with macOS Keychain.\nClipAudit is also a fully featured clipboard manager, so now I replace Alfred / Raycast with this!\nCheck it out 👉 ClipAudit.app\nLet me know what you think! 😄",
+      "original_en": "NEW APP!!! 🚀\nIn the age of security incidents, I figured we need to be more careful with how we treat secrets in our clipboard.\nSo I built this: ClipAudit.app (macOS app)\n- It automatically detects 713 types of API keys and secrets and conceals them from other apps that read your clipboard in under <1ms.\n- Detect and scrubs secrets out of your shell history (bash, zsh, etc.).\n- Secrets in your clipboard will auto-clear after 90s, and accessing them again requires Touch ID.\n- Hide your secrets while you are in screen recording or screen sharing mode.\n- Everything is 100% offline, on-device processing, and encrypted with macOS Keychain.\nClipAudit is also a fully featured clipboard manager, so now I replace Alfred / Raycast with this!\nCheck it out 👉 ClipAudit.app\nLet me know what you think! 😄",
+      "media": "image",
+      "self_quote": false,
+      "hook": "New macOS app ClipAudit: a clipboard manager that detects and conceals API keys and secrets.",
+      "views_label": "30.5K",
+      "board_rank": 23,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "API"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "API"
+      }
+    },
+    {
+      "handle": "@_akhaliq",
+      "name": "AK",
+      "display_name": "AK",
+      "views": 22339,
+      "url": "https://x.com/_akhaliq/status/2114730501626015880",
+      "status_url": "https://x.com/_akhaliq/status/2114730501626015880",
+      "posted_at": "2026-10-26T14:46:00Z",
+      "text": "On-Policy Self-Training\nData-Free Self-Improvement in Large Language Models\npaper: huggingface.co/papers/2610.32",
+      "full_text": "On-Policy Self-Training\nData-Free Self-Improvement in Large Language Models\npaper: huggingface.co/papers/2610.32",
+      "original_en": "On-Policy Self-Training\nData-Free Self-Improvement in Large Language Models\npaper: huggingface.co/papers/2610.32",
+      "media": "image",
+      "self_quote": false,
+      "hook": "New paper: on-policy self-training for data-free self-improvement in large language models.",
+      "views_label": "22.3K",
+      "board_rank": 24,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "model"
+      }
+    },
+    {
+      "handle": "@levelsio",
+      "name": "levelsio",
+      "display_name": "levelsio",
+      "views": 18476,
+      "url": "https://x.com/levelsio/status/2114510984689639894",
+      "status_url": "https://x.com/levelsio/status/2114510984689639894",
+      "posted_at": "2026-10-26T00:14:00Z",
+      "text": "In tonight's Brazil presidential elections, something that looks like a coup just happened\nThe ruling left wing candidate Lula kept the polling booths open 2 extra hours to get more votes in places where he was predicted to win (7pm)\nWhile closing the polling booths in places where his opponent Bolsonaro was predicted to win at the right time (5pm)\nOf course this will likely give Lula the edge he needed to win in a tight 50-50 race which everyone predicted he was going to lose from Bolsonaro\nComplete banana republic stuff, can't make this up! 🍌\nx.com/jhdafonseca/status/2114461669103735258",
+      "full_text": "In tonight's Brazil presidential elections, something that looks like a coup just happened\nThe ruling left wing candidate Lula kept the polling booths open 2 extra hours to get more votes in places where he was predicted to win (7pm)\nWhile closing the polling booths in places where his opponent Bolsonaro was predicted to win at the right time (5pm)\nOf course this will likely give Lula the edge he needed to win in a tight 50-50 race which everyone predicted he was going to lose from Bolsonaro\nComplete banana republic stuff, can't make this up! 🍌\nx.com/jhdafonseca/status/2114461669103735258",
+      "original_en": "In tonight's Brazil presidential elections, something that looks like a coup just happened\nThe ruling left wing candidate Lula kept the polling booths open 2 extra hours to get more votes in places where he was predicted to win (7pm)\nWhile closing the polling booths in places where his opponent Bolsonaro was predicted to win at the right time (5pm)\nOf course this will likely give Lula the edge he needed to win in a tight 50-50 race which everyone predicted he was going to lose from Bolsonaro\nComplete banana republic stuff, can't make this up! 🍌\nx.com/jhdafonseca/status/2114461669103735258",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Claim about differing polling-booth closing times in Brazil's presidential election.",
+      "views_label": "18.5K",
+      "board_rank": 25,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@_akhaliq",
+      "name": "AK",
+      "display_name": "AK",
+      "views": 17849,
+      "url": "https://x.com/_akhaliq/status/2114730846426890689",
+      "status_url": "https://x.com/_akhaliq/status/2114730846426890689",
+      "posted_at": "2026-10-26T14:48:00Z",
+      "text": "Building Auditable AI Text Detectors with Sparse Autoencoders\npaper: huggingface.co/papers/2610.30",
+      "full_text": "Building Auditable AI Text Detectors with Sparse Autoencoders\npaper: huggingface.co/papers/2610.30",
+      "original_en": "Building Auditable AI Text Detectors with Sparse Autoencoders\npaper: huggingface.co/papers/2610.30",
+      "media": "video",
+      "self_quote": false,
+      "hook": "New paper: building auditable AI text detectors with sparse autoencoders.",
+      "views_label": "17.8K",
+      "board_rank": 26,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@_akhaliq",
+      "name": "AK",
+      "display_name": "AK",
+      "views": 8030,
+      "url": "https://x.com/_akhaliq/status/2114730217562665324",
+      "status_url": "https://x.com/_akhaliq/status/2114730217562665324",
+      "posted_at": "2026-10-26T14:45:00Z",
+      "text": "HiSTEVE 1.0\nHarnessing Human-Interface VLA Agents for Open-World Games\npaper: huggingface.co/papers/2610.31",
+      "full_text": "HiSTEVE 1.0\nHarnessing Human-Interface VLA Agents for Open-World Games\npaper: huggingface.co/papers/2610.31",
+      "original_en": "HiSTEVE 1.0\nHarnessing Human-Interface VLA Agents for Open-World Games\npaper: huggingface.co/papers/2610.31",
+      "media": "image",
+      "self_quote": false,
+      "hook": "HiSTEVE 1.0: human-interface VLA agents for open-world games.",
+      "views_label": "8.0K",
+      "board_rank": 27,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Agents"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Agents"
+      }
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "views": 7613,
+      "url": "https://x.com/tdinh_me/status/2114644124133630403",
+      "status_url": "https://x.com/tdinh_me/status/2114644124133630403",
+      "posted_at": "2026-10-26T09:03:00Z",
+      "text": "Am I the first person to build a clipboard manager app that automatically conceals and protects secrets? 😂 I think so but not sure, if you know any other apps that did this before please share!",
+      "full_text": "Am I the first person to build a clipboard manager app that automatically conceals and protects secrets? 😂 I think so but not sure, if you know any other apps that did this before please share!",
+      "original_en": "Am I the first person to build a clipboard manager app that automatically conceals and protects secrets? 😂 I think so but not sure, if you know any other apps that did this before please share!",
+      "media": "image (quoted post)",
+      "self_quote": true,
+      "hook": "Self-quote: asking whether anyone built a secret-concealing clipboard manager before.",
+      "views_label": "7.6K",
+      "board_rank": 28,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@TheRundownAI",
+      "name": "The Rundown AI",
+      "display_name": "The Rundown AI",
+      "views": 6203,
+      "url": "https://x.com/TheRundownAI/status/2114665921763508475",
+      "status_url": "https://x.com/TheRundownAI/status/2114665921763508475",
+      "posted_at": "2026-10-26T10:30:00Z",
+      "text": "Top stories in AI today:\n- Kimi continues to challenge the frontier with K3.1 Pro\n- The Rundown Roundtable: Our AI use cases\n- Let AI sign in without sharing your passwords\n- Canva's first in-house image model climbs the ranks",
+      "full_text": "Top stories in AI today:\n- Kimi continues to challenge the frontier with K3.1 Pro\n- The Rundown Roundtable: Our AI use cases\n- Let AI sign in without sharing your passwords\n- Canva's first in-house image model climbs the ranks",
+      "original_en": "Top stories in AI today:\n- Kimi continues to challenge the frontier with K3.1 Pro\n- The Rundown Roundtable: Our AI use cases\n- Let AI sign in without sharing your passwords\n- Canva's first in-house image model climbs the ranks",
+      "media": "image",
+      "self_quote": false,
+      "hook": "Top AI stories: Kimi K3.1 Pro, signing in without sharing passwords, Canva's image model.",
+      "views_label": "6.2K",
+      "board_rank": 29,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "model"
+      }
+    },
+    {
+      "handle": "@tdinh_me",
+      "name": "Tony Dinh",
+      "display_name": "Tony Dinh",
+      "views": 5766,
+      "url": "https://x.com/tdinh_me/status/2114645022775902284",
+      "status_url": "https://x.com/tdinh_me/status/2114645022775902284",
+      "posted_at": "2026-10-26T09:07:00Z",
+      "text": "Thank you @kidgdzilla! 🥰 Buy a license, get the code, then tell your agents to customize it however you want!",
+      "full_text": "Thank you @kidgdzilla! 🥰 Buy a license, get the code, then tell your agents to customize it however you want!",
+      "original_en": "Thank you @kidgdzilla! 🥰 Buy a license, get the code, then tell your agents to customize it however you want!",
+      "media": "image (quoted post)",
+      "self_quote": true,
+      "hook": "Self-quote: buy a license, get the code, let your agents customize it.",
+      "views_label": "5.8K",
+      "board_rank": 30,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Agents"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Agents"
+      }
+    },
+    {
+      "handle": "@TheRundownAI",
+      "name": "The Rundown AI",
+      "display_name": "The Rundown AI",
+      "views": 5030,
+      "url": "https://x.com/TheRundownAI/status/2114744285941915951",
+      "status_url": "https://x.com/TheRundownAI/status/2114744285941915951",
+      "posted_at": "2026-10-26T15:41:00Z",
+      "text": "Anthropic's own internal use of Claude passed its monthly personnel costs (not counting stock pay) in April, per the S-1. Measured at list prices, that usage grew over 250x between January and September 2026.",
+      "full_text": "Anthropic's own internal use of Claude passed its monthly personnel costs (not counting stock pay) in April, per the S-1. Measured at list prices, that usage grew over 250x between January and September 2026.",
+      "original_en": "Anthropic's own internal use of Claude passed its monthly personnel costs (not counting stock pay) in April, per the S-1. Measured at list prices, that usage grew over 250x between January and September 2026.",
+      "media": "image",
+      "self_quote": false,
+      "hook": "Per the S-1: Anthropic's internal Claude use passed monthly personnel costs in April, up 250x Jan-Sep.",
+      "views_label": "5.0K",
+      "board_rank": 31,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "S-1",
+          "Claude",
+          "Anthropic's"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    }
+  ],
+  "hits_count": 11,
+  "leaderboards": {
+    "as_of": "2026-10-26",
+    "days_included": [],
+    "month": {
+      "entries": [],
+      "label": "October 2026",
+      "range": []
+    },
+    "month_days_included": [],
+    "tracking_start": "2026-10-27",
+    "week": {
+      "entries": [],
+      "label": "Rolling week",
+      "range": []
+    }
+  },
+  "narrative_synthesis": "Outsiders are dominated by the Anthropic IPO/S-1 story and GPT-6.1 Terra, plus the Claude-vs-Codex coding debate.",
+  "no_hits": [
+    {
+      "handle": "@mreflow",
+      "reason": "One Oct 26 original, below the 5,000 floor at 4,596 views.",
+      "max_views": 4596
+    },
+    {
+      "handle": "@rasbt",
+      "reason": "No Oct 26 original; latest post Oct 25 (short break, back in November).",
+      "max_views": 0
+    },
+    {
+      "handle": "@simonw",
+      "reason": "No Oct 26 original found; profile segment runs Oct 24 and earlier.",
+      "max_views": 0
+    }
+  ],
+  "operator": {
+    "handle": "@TechyBee7e",
+    "name": "Techy Bee",
+    "profile_url": "https://x.com/TechyBee7e"
+  },
+  "outsiders": [
+    {
+      "id": "outsider-01",
+      "handle": "@OpenAI",
+      "name": "OpenAI",
+      "display_name": "OpenAI",
+      "views": 3400000,
+      "url": "",
+      "status_url": "",
+      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+      "full_text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+      "original_en": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+      "media": "",
+      "self_quote": false,
+      "hook": "GPT-6.1 Terra: fast, capable computer use at a lower price.",
+      "views_label": "3.4M",
+      "board_rank": 1,
+      "draft_en": "OpenAI just shipped GPT-6.1 Terra, a cheaper way to let a model drive your computer: it reads the screen, moves between apps, and writes in a natural voice, built to carry more of a workday.",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.444,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "outsider-02",
+      "handle": "@gdb",
+      "name": "Greg Brockman",
+      "display_name": "Greg Brockman",
+      "views": 1100000,
+      "url": "",
+      "status_url": "",
+      "text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory). AI starting to help us improve our understanding of the universe! Working with academic communities to build scientific understanding",
+      "full_text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory). AI starting to help us improve our understanding of the universe! Working with academic communities to build scientific understanding",
+      "original_en": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory). AI starting to help us improve our understanding of the universe! Working with academic communities to build scientific understanding",
+      "media": "",
+      "self_quote": false,
+      "hook": "Three major scientific discoveries announced, one each in math, computer science, and physics.",
+      "views_label": "1.1M",
+      "board_rank": 2,
+      "draft_en": "AI just helped notch three major scientific discoveries: one in harmonic analysis, one in complexity theory, one in quantum field theory. The point is bigger than the papers: machine intelligence is starting to grow our understanding of the universe.",
+      "draft_keywords": [
+        "discoveries"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.111,
+        "word_overlap": 0.619,
+        "max_copied_run": 5
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "outsider-03",
+      "handle": "@WatcherGuru",
+      "name": "Watcher.Guru",
+      "display_name": "Watcher.Guru",
+      "views": 1000000,
+      "url": "",
+      "status_url": "",
+      "text": "JUST IN: Anthropic warns its AI models could pose \"catastrophic or existential risks to humanity\" in IPO filing.",
+      "full_text": "JUST IN: Anthropic warns its AI models could pose \"catastrophic or existential risks to humanity\" in IPO filing.",
+      "original_en": "JUST IN: Anthropic warns its AI models could pose \"catastrophic or existential risks to humanity\" in IPO filing.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic's IPO filing warns its models could pose catastrophic or existential risks.",
+      "views_label": "1.0M",
+      "board_rank": 3,
+      "draft_en": "The IPO filing carries a warning worth reading twice: Anthropic says its own systems might one day threaten humanity at a catastrophic or existential scale.",
+      "draft_keywords": [
+        "Anthropic",
+        "IPO"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "outsider-04",
+      "handle": "@Denche2005",
+      "name": "Denys Cherednychenko",
+      "display_name": "Denys Cherednychenko",
+      "views": 713000,
+      "url": "",
+      "status_url": "",
+      "text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest.",
+      "full_text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest.",
+      "original_en": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Asking Grok how long until AI fully replaces a data scientist.",
+      "views_label": "713K",
+      "board_rank": 4,
+      "draft_en": "Data scientists, a straight question for Grok: how long until a model like this can fully replace you at your job? Be honest.",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.05,
+        "word_overlap": 0.636,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "outsider-05",
+      "handle": "@jaminball",
+      "name": "Jamin Ball",
+      "display_name": "Jamin Ball",
+      "views": 609000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic: $134b of cash today $141b of total capital raised <$10b of total burn to get to $16.8b in quarterly revenue (Q3 figure that was widely reported, Q3 not in S-1 yet)",
+      "full_text": "Anthropic: $134b of cash today $141b of total capital raised <$10b of total burn to get to $16.8b in quarterly revenue (Q3 figure that was widely reported, Q3 not in S-1 yet)",
+      "original_en": "Anthropic: $134b of cash today $141b of total capital raised <$10b of total burn to get to $16.8b in quarterly revenue (Q3 figure that was widely reported, Q3 not in S-1 yet)",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic by the numbers: $134b cash, $141b raised, under $10b burned.",
+      "views_label": "609K",
+      "board_rank": 5,
+      "draft_en": "Anthropic's balance sheet in one line: $134b cash today, $141b raised overall, under $10b burned to reach $16.8b in quarterly revenue. That Q3 figure was widely reported, but it is not in the S-1 yet.",
+      "draft_keywords": [
+        "Anthropic",
+        "S-1"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.031,
+        "word_overlap": 0.65,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "outsider-06",
+      "handle": "@HighyieldHarry",
+      "name": "High Yield Harry",
+      "display_name": "High Yield Harry",
+      "views": 324000,
+      "url": "",
+      "status_url": "",
+      "text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and data into LLMs preseason. That coupled with my usual strategy has me in 1st in my 3 leagues.",
+      "full_text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and data into LLMs preseason. That coupled with my usual strategy has me in 1st in my 3 leagues.",
+      "original_en": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and data into LLMs preseason. That coupled with my usual strategy has me in 1st in my 3 leagues.",
+      "media": "",
+      "self_quote": false,
+      "hook": "LLMs plus preseason data put him first in all 3 fantasy leagues.",
+      "views_label": "324K",
+      "board_rank": 6,
+      "draft_en": "I dumped a pile of preseason fantasy data into LLMs, paired it with my usual strategy, and now I sit first in all 3 of my leagues. Turns out these models moneyball fantasy football.",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.032,
+        "word_overlap": 0.533,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "outsider-07",
+      "handle": "@FirstSquawk",
+      "name": "First Squawk",
+      "display_name": "First Squawk",
+      "views": 280000,
+      "url": "",
+      "status_url": "",
+      "text": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE",
+      "full_text": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE",
+      "original_en": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE",
+      "media": "",
+      "self_quote": false,
+      "hook": "OpenAI says its system proved the exponential time hypothesis false.",
+      "views_label": "280K",
+      "board_rank": 7,
+      "draft_en": "OpenAI says its system recently proved the exponential time hypothesis false. That is the claim in the latest website report.",
+      "draft_keywords": [
+        "hypothesis"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.118,
+        "word_overlap": 0.75,
+        "max_copied_run": 4
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "outsider-08",
+      "handle": "@elijs_dev",
+      "name": "Eli.js | Dev",
+      "display_name": "Eli.js | Dev",
+      "views": 208000,
+      "url": "",
+      "status_url": "",
+      "text": "Yeah, the coding vibe is over Everyone is going back to learning to program",
+      "full_text": "Yeah, the coding vibe is over Everyone is going back to learning to program",
+      "original_en": "Yeah, the coding vibe is over Everyone is going back to learning to program",
+      "media": "",
+      "self_quote": false,
+      "hook": "The vibe-coding wave is over; people are going back to learning to program.",
+      "views_label": "208K",
+      "board_rank": 8,
+      "draft_en": "The vibe coding wave has passed, and people are returning to actually learning how to program.",
+      "draft_keywords": [
+        "vibe coding"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "outsider-09",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "display_name": "Theo - t3.gg",
+      "views": 177000,
+      "url": "",
+      "status_url": "",
+      "text": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've loved it so much that I forked it (hence \"prox\"). So easy to share my 7 Claude subs and 3 Codex subs across 12 computers :) Best part? Less random signouts",
+      "full_text": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've loved it so much that I forked it (hence \"prox\"). So easy to share my 7 Claude subs and 3 Codex subs across 12 computers :) Best part? Less random signouts",
+      "original_en": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've loved it so much that I forked it (hence \"prox\"). So easy to share my 7 Claude subs and 3 Codex subs across 12 computers :) Best part? Less random signouts",
+      "media": "",
+      "self_quote": false,
+      "hook": "Do not put multiple accounts in T3 Code; CLIProxy is trivial to set up.",
+      "views_label": "177K",
+      "board_rank": 10,
+      "draft_en": "If you run several accounts, keep them out of T3 Code. CLIProxy takes minutes to set up, I forked it into prox, and it now carries my subscriptions, 7 Claude and 3 Codex, across 12 computers with far fewer random signouts.",
+      "draft_keywords": [
+        "Claude",
+        "T3 Code"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.571,
+        "max_copied_run": 3
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "outsider-10",
+      "handle": "@Moneymirweather",
+      "name": "Old Man Mir",
+      "display_name": "Old Man Mir",
+      "views": 171000,
+      "url": "",
+      "status_url": "",
+      "text": "Microsoft clearly is positioning themselves to buy one of the A.I. companies. I think it'll be ChatGPT. We shall see",
+      "full_text": "Microsoft clearly is positioning themselves to buy one of the A.I. companies. I think it'll be ChatGPT. We shall see",
+      "original_en": "Microsoft clearly is positioning themselves to buy one of the A.I. companies. I think it'll be ChatGPT. We shall see",
+      "media": "",
+      "self_quote": false,
+      "hook": "Microsoft is positioning to buy an AI company, and the guess is ChatGPT.",
+      "views_label": "171K",
+      "board_rank": 11
+    },
+    {
+      "id": "outsider-11",
+      "handle": "@Denche2005",
+      "name": "Denys Cherednychenko",
+      "display_name": "Denys Cherednychenko",
+      "views": 166000,
+      "url": "",
+      "status_url": "",
+      "text": "Hey @grok, how many years until AI can do 90% of a software engineer's job? Give me your honest estimate.",
+      "full_text": "Hey @grok, how many years until AI can do 90% of a software engineer's job? Give me your honest estimate.",
+      "original_en": "Hey @grok, how many years until AI can do 90% of a software engineer's job? Give me your honest estimate.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Asking Grok how many years until AI does 90% of a software engineer's job.",
+      "views_label": "166K",
+      "board_rank": 12
+    },
+    {
+      "id": "outsider-12",
+      "handle": "@KeygraphHQ",
+      "name": "Keygraph",
+      "display_name": "Keygraph",
+      "views": 109000,
+      "url": "",
+      "status_url": "",
+      "text": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. No separate API bill. No cyber verification required. Every finding ships with a working proof of concept. Open source, 49K+ stars.",
+      "full_text": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. No separate API bill. No cyber verification required. Every finding ships with a working proof of concept. Open source, 49K+ stars.",
+      "original_en": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. No separate API bill. No cyber verification required. Every finding ships with a working proof of concept. Open source, 49K+ stars.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Grok as an on-demand AI hacker: full pentests via Shannon, open source, 49K+ stars.",
+      "views_label": "109K",
+      "board_rank": 13
+    },
+    {
+      "id": "outsider-13",
+      "handle": "@jukan05",
+      "name": "Jukan",
+      "display_name": "Jukan",
+      "views": 71000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD about Anthropic going bankrupt.",
+      "full_text": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD about Anthropic going bankrupt.",
+      "original_en": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD about Anthropic going bankrupt.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic holds more cash than Amazon, so the bankruptcy talk looks like FUD.",
+      "views_label": "71K",
+      "board_rank": 15
+    },
+    {
+      "id": "outsider-14",
+      "handle": "@CNN",
+      "name": "CNN",
+      "display_name": "CNN",
+      "views": 61000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic filed for an initial public offering in what could become one of the largest stock market debuts in history. What does Anthropic's chatbot, Claude, think about the big IPO? CNN's David Goldman asked.",
+      "full_text": "Anthropic filed for an initial public offering in what could become one of the largest stock market debuts in history. What does Anthropic's chatbot, Claude, think about the big IPO? CNN's David Goldman asked.",
+      "original_en": "Anthropic filed for an initial public offering in what could become one of the largest stock market debuts in history. What does Anthropic's chatbot, Claude, think about the big IPO? CNN's David Goldman asked.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic's IPO could be one of the largest debuts in history; CNN asked Claude about it.",
+      "views_label": "61K",
+      "board_rank": 16
+    },
+    {
+      "id": "outsider-15",
+      "handle": "@bensenescu",
+      "name": "Ben",
+      "display_name": "Ben",
+      "views": 57000,
+      "url": "",
+      "status_url": "",
+      "text": "Introducing EveryApp (YC F26). Our mission: make every app open source. We started with OpenSEO (24k GitHub stars). Now we're doing it for every app your business runs on. Star the project, try an app, or build your own",
+      "full_text": "Introducing EveryApp (YC F26). Our mission: make every app open source. We started with OpenSEO (24k GitHub stars). Now we're doing it for every app your business runs on. Star the project, try an app, or build your own",
+      "original_en": "Introducing EveryApp (YC F26). Our mission: make every app open source. We started with OpenSEO (24k GitHub stars). Now we're doing it for every app your business runs on. Star the project, try an app, or build your own",
+      "media": "",
+      "self_quote": false,
+      "hook": "EveryApp (YC F26): make every app open source, starting from OpenSEO.",
+      "views_label": "57K",
+      "board_rank": 17
+    },
+    {
+      "id": "outsider-16",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "display_name": "Theo - t3.gg",
+      "views": 51000,
+      "url": "",
+      "status_url": "",
+      "text": "Day 22/ T3 Code has a new design",
+      "full_text": "Day 22/ T3 Code has a new design",
+      "original_en": "Day 22/ T3 Code has a new design",
+      "media": "",
+      "self_quote": false,
+      "hook": "Day 22: T3 Code has a new design.",
+      "views_label": "51K",
+      "board_rank": 18
+    },
+    {
+      "id": "outsider-17",
+      "handle": "@SamVale29",
+      "name": "Sam Vale",
+      "display_name": "Sam Vale",
+      "views": 46000,
+      "url": "",
+      "status_url": "",
+      "text": "Unpopular opinion: learning to code is more valuable now, not less.",
+      "full_text": "Unpopular opinion: learning to code is more valuable now, not less.",
+      "original_en": "Unpopular opinion: learning to code is more valuable now, not less.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Learning to code is more valuable now, not less.",
+      "views_label": "46K",
+      "board_rank": 19
+    },
+    {
+      "id": "outsider-18",
+      "handle": "@brianchau57",
+      "name": "Brian Chau",
+      "display_name": "Brian Chau",
+      "views": 41000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic is banning 5-7% of its users (by revenue) every 9 months lmao",
+      "full_text": "Anthropic is banning 5-7% of its users (by revenue) every 9 months lmao",
+      "original_en": "Anthropic is banning 5-7% of its users (by revenue) every 9 months lmao",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic bans 5-7% of its users by revenue every 9 months.",
+      "views_label": "41K",
+      "board_rank": 20
+    },
+    {
+      "id": "outsider-19",
+      "handle": "@giadotai",
+      "name": "Gia",
+      "display_name": "Gia",
+      "views": 39000,
+      "url": "",
+      "status_url": "",
+      "text": "chatgpt plus users might finally get better limits with the next openai model.",
+      "full_text": "chatgpt plus users might finally get better limits with the next openai model.",
+      "original_en": "chatgpt plus users might finally get better limits with the next openai model.",
+      "media": "",
+      "self_quote": false,
+      "hook": "ChatGPT Plus users might finally get better limits with the next OpenAI model.",
+      "views_label": "39K",
+      "board_rank": 21
+    },
+    {
+      "id": "outsider-20",
+      "handle": "@somudatta06",
+      "name": "Somu",
+      "display_name": "Somu",
+      "views": 33000,
+      "url": "",
+      "status_url": "",
+      "text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Everyone is getting acquired. And everyone has 26 followers...",
+      "full_text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Everyone is getting acquired. And everyone has 26 followers...",
+      "original_en": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Everyone is getting acquired. And everyone has 26 followers...",
+      "media": "",
+      "self_quote": false,
+      "hook": "Everyone on X has an AI agent, $10k MRR, and 26 followers.",
+      "views_label": "33K",
+      "board_rank": 22
+    }
+  ],
+  "outsiders_count": 20,
+  "patterns": [],
+  "previous_day": null,
+  "timezone": "Asia/Karachi",
+  "title": "Daily X narrative digest — 2026-10-26",
+  "trend_input_only_posts": [
+    {
+      "handle": "@AnthropicAI",
+      "name": "Anthropic",
+      "display_name": "Anthropic",
+      "views": 6504008,
+      "url": "https://x.com/AnthropicAI/status/2114705042817110293",
+      "status_url": "https://x.com/AnthropicAI/status/2114705042817110293",
+      "posted_at": "2026-10-26T13:05:00Z",
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\nRead more: anthropic.com/news/s1-sec\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.",
+      "full_text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\nRead more: anthropic.com/news/s1-sec\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.",
+      "original_en": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\nRead more: anthropic.com/news/s1-sec\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.",
+      "media": "link card (image)",
+      "self_quote": false,
+      "hook": "Anthropic filed an S-1 with the SEC for a proposed IPO.",
+      "views_label": "6504.0K"
+    }
+  ],
+  "ui": {
+    "default_theme": "night"
+  },
+  "updated": "2026-10-27T10:45:00+05:00",
+  "virals": [
+    {
+      "id": "outsider-01",
+      "handle": "@OpenAI",
+      "name": "OpenAI",
+      "display_name": "OpenAI",
+      "views": 3400000,
+      "url": "",
+      "status_url": "",
+      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+      "full_text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+      "original_en": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+      "media": "",
+      "self_quote": false,
+      "hook": "GPT-6.1 Terra: fast, capable computer use at a lower price.",
+      "views_label": "3.4M",
+      "board_rank": 1,
+      "draft_en": "OpenAI just shipped GPT-6.1 Terra, a cheaper way to let a model drive your computer: it reads the screen, moves between apps, and writes in a natural voice, built to carry more of a workday.",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.444,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
+        "topic": "model"
+      }
+    },
+    {
+      "id": "outsider-02",
+      "handle": "@gdb",
+      "name": "Greg Brockman",
+      "display_name": "Greg Brockman",
+      "views": 1100000,
+      "url": "",
+      "status_url": "",
+      "text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory). AI starting to help us improve our understanding of the universe! Working with academic communities to build scientific understanding",
+      "full_text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory). AI starting to help us improve our understanding of the universe! Working with academic communities to build scientific understanding",
+      "original_en": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory). AI starting to help us improve our understanding of the universe! Working with academic communities to build scientific understanding",
+      "media": "",
+      "self_quote": false,
+      "hook": "Three major scientific discoveries announced, one each in math, computer science, and physics.",
+      "views_label": "1.1M",
+      "board_rank": 2,
+      "draft_en": "AI just helped notch three major scientific discoveries: one in harmonic analysis, one in complexity theory, one in quantum field theory. The point is bigger than the papers: machine intelligence is starting to grow our understanding of the universe.",
+      "draft_keywords": [
+        "discoveries"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.111,
+        "word_overlap": 0.619,
+        "max_copied_run": 5
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-03",
+      "handle": "@WatcherGuru",
+      "name": "Watcher.Guru",
+      "display_name": "Watcher.Guru",
+      "views": 1000000,
+      "url": "",
+      "status_url": "",
+      "text": "JUST IN: Anthropic warns its AI models could pose \"catastrophic or existential risks to humanity\" in IPO filing.",
+      "full_text": "JUST IN: Anthropic warns its AI models could pose \"catastrophic or existential risks to humanity\" in IPO filing.",
+      "original_en": "JUST IN: Anthropic warns its AI models could pose \"catastrophic or existential risks to humanity\" in IPO filing.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic's IPO filing warns its models could pose catastrophic or existential risks.",
+      "views_label": "1.0M",
+      "board_rank": 3,
+      "draft_en": "The IPO filing carries a warning worth reading twice: Anthropic says its own systems might one day threaten humanity at a catastrophic or existential scale.",
+      "draft_keywords": [
+        "Anthropic",
+        "IPO"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "model",
+          "IPO"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    },
+    {
+      "id": "outsider-04",
+      "handle": "@Denche2005",
+      "name": "Denys Cherednychenko",
+      "display_name": "Denys Cherednychenko",
+      "views": 713000,
+      "url": "",
+      "status_url": "",
+      "text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest.",
+      "full_text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest.",
+      "original_en": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Asking Grok how long until AI fully replaces a data scientist.",
+      "views_label": "713K",
+      "board_rank": 4,
+      "draft_en": "Data scientists, a straight question for Grok: how long until a model like this can fully replace you at your job? Be honest.",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.05,
+        "word_overlap": 0.636,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-05",
+      "handle": "@jaminball",
+      "name": "Jamin Ball",
+      "display_name": "Jamin Ball",
+      "views": 609000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic: $134b of cash today $141b of total capital raised <$10b of total burn to get to $16.8b in quarterly revenue (Q3 figure that was widely reported, Q3 not in S-1 yet)",
+      "full_text": "Anthropic: $134b of cash today $141b of total capital raised <$10b of total burn to get to $16.8b in quarterly revenue (Q3 figure that was widely reported, Q3 not in S-1 yet)",
+      "original_en": "Anthropic: $134b of cash today $141b of total capital raised <$10b of total burn to get to $16.8b in quarterly revenue (Q3 figure that was widely reported, Q3 not in S-1 yet)",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic by the numbers: $134b cash, $141b raised, under $10b burned.",
+      "views_label": "609K",
+      "board_rank": 5,
+      "draft_en": "Anthropic's balance sheet in one line: $134b cash today, $141b raised overall, under $10b burned to reach $16.8b in quarterly revenue. That Q3 figure was widely reported, but it is not in the S-1 yet.",
+      "draft_keywords": [
+        "Anthropic",
+        "S-1"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.031,
+        "word_overlap": 0.65,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "S-1"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    },
+    {
+      "id": "outsider-06",
+      "handle": "@HighyieldHarry",
+      "name": "High Yield Harry",
+      "display_name": "High Yield Harry",
+      "views": 324000,
+      "url": "",
+      "status_url": "",
+      "text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and data into LLMs preseason. That coupled with my usual strategy has me in 1st in my 3 leagues.",
+      "full_text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and data into LLMs preseason. That coupled with my usual strategy has me in 1st in my 3 leagues.",
+      "original_en": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and data into LLMs preseason. That coupled with my usual strategy has me in 1st in my 3 leagues.",
+      "media": "",
+      "self_quote": false,
+      "hook": "LLMs plus preseason data put him first in all 3 fantasy leagues.",
+      "views_label": "324K",
+      "board_rank": 6,
+      "draft_en": "I dumped a pile of preseason fantasy data into LLMs, paired it with my usual strategy, and now I sit first in all 3 of my leagues. Turns out these models moneyball fantasy football.",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.032,
+        "word_overlap": 0.533,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-07",
+      "handle": "@FirstSquawk",
+      "name": "First Squawk",
+      "display_name": "First Squawk",
+      "views": 280000,
+      "url": "",
+      "status_url": "",
+      "text": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE",
+      "full_text": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE",
+      "original_en": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE",
+      "media": "",
+      "self_quote": false,
+      "hook": "OpenAI says its system proved the exponential time hypothesis false.",
+      "views_label": "280K",
+      "board_rank": 7,
+      "draft_en": "OpenAI says its system recently proved the exponential time hypothesis false. That is the claim in the latest website report.",
+      "draft_keywords": [
+        "hypothesis"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.118,
+        "word_overlap": 0.75,
+        "max_copied_run": 4
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-08",
+      "handle": "@elijs_dev",
+      "name": "Eli.js | Dev",
+      "display_name": "Eli.js | Dev",
+      "views": 208000,
+      "url": "",
+      "status_url": "",
+      "text": "Yeah, the coding vibe is over Everyone is going back to learning to program",
+      "full_text": "Yeah, the coding vibe is over Everyone is going back to learning to program",
+      "original_en": "Yeah, the coding vibe is over Everyone is going back to learning to program",
+      "media": "",
+      "self_quote": false,
+      "hook": "The vibe-coding wave is over; people are going back to learning to program.",
+      "views_label": "208K",
+      "board_rank": 8,
+      "draft_en": "The vibe coding wave has passed, and people are returning to actually learning how to program.",
+      "draft_keywords": [
+        "vibe coding"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-09",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "display_name": "Theo - t3.gg",
+      "views": 177000,
+      "url": "",
+      "status_url": "",
+      "text": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've loved it so much that I forked it (hence \"prox\"). So easy to share my 7 Claude subs and 3 Codex subs across 12 computers :) Best part? Less random signouts",
+      "full_text": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've loved it so much that I forked it (hence \"prox\"). So easy to share my 7 Claude subs and 3 Codex subs across 12 computers :) Best part? Less random signouts",
+      "original_en": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've loved it so much that I forked it (hence \"prox\"). So easy to share my 7 Claude subs and 3 Codex subs across 12 computers :) Best part? Less random signouts",
+      "media": "",
+      "self_quote": false,
+      "hook": "Do not put multiple accounts in T3 Code; CLIProxy is trivial to set up.",
+      "views_label": "177K",
+      "board_rank": 10,
+      "draft_en": "If you run several accounts, keep them out of T3 Code. CLIProxy takes minutes to set up, I forked it into prox, and it now carries my subscriptions, 7 Claude and 3 Codex, across 12 computers with far fewer random signouts.",
+      "draft_keywords": [
+        "Claude",
+        "T3 Code"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.571,
+        "max_copied_run": 3
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    },
+    {
+      "id": "outsider-10",
+      "handle": "@Moneymirweather",
+      "name": "Old Man Mir",
+      "display_name": "Old Man Mir",
+      "views": 171000,
+      "url": "",
+      "status_url": "",
+      "text": "Microsoft clearly is positioning themselves to buy one of the A.I. companies. I think it'll be ChatGPT. We shall see",
+      "full_text": "Microsoft clearly is positioning themselves to buy one of the A.I. companies. I think it'll be ChatGPT. We shall see",
+      "original_en": "Microsoft clearly is positioning themselves to buy one of the A.I. companies. I think it'll be ChatGPT. We shall see",
+      "media": "",
+      "self_quote": false,
+      "hook": "Microsoft is positioning to buy an AI company, and the guess is ChatGPT.",
+      "views_label": "171K",
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-11",
+      "handle": "@Denche2005",
+      "name": "Denys Cherednychenko",
+      "display_name": "Denys Cherednychenko",
+      "views": 166000,
+      "url": "",
+      "status_url": "",
+      "text": "Hey @grok, how many years until AI can do 90% of a software engineer's job? Give me your honest estimate.",
+      "full_text": "Hey @grok, how many years until AI can do 90% of a software engineer's job? Give me your honest estimate.",
+      "original_en": "Hey @grok, how many years until AI can do 90% of a software engineer's job? Give me your honest estimate.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Asking Grok how many years until AI does 90% of a software engineer's job.",
+      "views_label": "166K",
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-12",
+      "handle": "@KeygraphHQ",
+      "name": "Keygraph",
+      "display_name": "Keygraph",
+      "views": 109000,
+      "url": "",
+      "status_url": "",
+      "text": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. No separate API bill. No cyber verification required. Every finding ships with a working proof of concept. Open source, 49K+ stars.",
+      "full_text": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. No separate API bill. No cyber verification required. Every finding ships with a working proof of concept. Open source, 49K+ stars.",
+      "original_en": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. No separate API bill. No cyber verification required. Every finding ships with a working proof of concept. Open source, 49K+ stars.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Grok as an on-demand AI hacker: full pentests via Shannon, open source, 49K+ stars.",
+      "views_label": "109K",
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "API"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "API"
+      }
+    },
+    {
+      "id": "outsider-13",
+      "handle": "@jukan05",
+      "name": "Jukan",
+      "display_name": "Jukan",
+      "views": 71000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD about Anthropic going bankrupt.",
+      "full_text": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD about Anthropic going bankrupt.",
+      "original_en": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD about Anthropic going bankrupt.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic holds more cash than Amazon, so the bankruptcy talk looks like FUD.",
+      "views_label": "71K",
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    },
+    {
+      "id": "outsider-14",
+      "handle": "@CNN",
+      "name": "CNN",
+      "display_name": "CNN",
+      "views": 61000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic filed for an initial public offering in what could become one of the largest stock market debuts in history. What does Anthropic's chatbot, Claude, think about the big IPO? CNN's David Goldman asked.",
+      "full_text": "Anthropic filed for an initial public offering in what could become one of the largest stock market debuts in history. What does Anthropic's chatbot, Claude, think about the big IPO? CNN's David Goldman asked.",
+      "original_en": "Anthropic filed for an initial public offering in what could become one of the largest stock market debuts in history. What does Anthropic's chatbot, Claude, think about the big IPO? CNN's David Goldman asked.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic's IPO could be one of the largest debuts in history; CNN asked Claude about it.",
+      "views_label": "61K",
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "IPO",
+          "Claude",
+          "Anthropic's"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    },
+    {
+      "id": "outsider-15",
+      "handle": "@bensenescu",
+      "name": "Ben",
+      "display_name": "Ben",
+      "views": 57000,
+      "url": "",
+      "status_url": "",
+      "text": "Introducing EveryApp (YC F26). Our mission: make every app open source. We started with OpenSEO (24k GitHub stars). Now we're doing it for every app your business runs on. Star the project, try an app, or build your own",
+      "full_text": "Introducing EveryApp (YC F26). Our mission: make every app open source. We started with OpenSEO (24k GitHub stars). Now we're doing it for every app your business runs on. Star the project, try an app, or build your own",
+      "original_en": "Introducing EveryApp (YC F26). Our mission: make every app open source. We started with OpenSEO (24k GitHub stars). Now we're doing it for every app your business runs on. Star the project, try an app, or build your own",
+      "media": "",
+      "self_quote": false,
+      "hook": "EveryApp (YC F26): make every app open source, starting from OpenSEO.",
+      "views_label": "57K",
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-16",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "display_name": "Theo - t3.gg",
+      "views": 51000,
+      "url": "",
+      "status_url": "",
+      "text": "Day 22/ T3 Code has a new design",
+      "full_text": "Day 22/ T3 Code has a new design",
+      "original_en": "Day 22/ T3 Code has a new design",
+      "media": "",
+      "self_quote": false,
+      "hook": "Day 22: T3 Code has a new design.",
+      "views_label": "51K",
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-17",
+      "handle": "@SamVale29",
+      "name": "Sam Vale",
+      "display_name": "Sam Vale",
+      "views": 46000,
+      "url": "",
+      "status_url": "",
+      "text": "Unpopular opinion: learning to code is more valuable now, not less.",
+      "full_text": "Unpopular opinion: learning to code is more valuable now, not less.",
+      "original_en": "Unpopular opinion: learning to code is more valuable now, not less.",
+      "media": "",
+      "self_quote": false,
+      "hook": "Learning to code is more valuable now, not less.",
+      "views_label": "46K",
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "outsider-18",
+      "handle": "@brianchau57",
+      "name": "Brian Chau",
+      "display_name": "Brian Chau",
+      "views": 41000,
+      "url": "",
+      "status_url": "",
+      "text": "Anthropic is banning 5-7% of its users (by revenue) every 9 months lmao",
+      "full_text": "Anthropic is banning 5-7% of its users (by revenue) every 9 months lmao",
+      "original_en": "Anthropic is banning 5-7% of its users (by revenue) every 9 months lmao",
+      "media": "",
+      "self_quote": false,
+      "hook": "Anthropic bans 5-7% of its users by revenue every 9 months.",
+      "views_label": "41K",
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Anthropic / IPO"
+      }
+    },
+    {
+      "id": "outsider-19",
+      "handle": "@giadotai",
+      "name": "Gia",
+      "display_name": "Gia",
+      "views": 39000,
+      "url": "",
+      "status_url": "",
+      "text": "chatgpt plus users might finally get better limits with the next openai model.",
+      "full_text": "chatgpt plus users might finally get better limits with the next openai model.",
+      "original_en": "chatgpt plus users might finally get better limits with the next openai model.",
+      "media": "",
+      "self_quote": false,
+      "hook": "ChatGPT Plus users might finally get better limits with the next OpenAI model.",
+      "views_label": "39K",
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "model"
+      }
+    },
+    {
+      "id": "outsider-20",
+      "handle": "@somudatta06",
+      "name": "Somu",
+      "display_name": "Somu",
+      "views": 33000,
+      "url": "",
+      "status_url": "",
+      "text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Everyone is getting acquired. And everyone has 26 followers...",
+      "full_text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Everyone is getting acquired. And everyone has 26 followers...",
+      "original_en": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Everyone is getting acquired. And everyone has 26 followers...",
+      "media": "",
+      "self_quote": false,
+      "hook": "Everyone on X has an AI agent, $10k MRR, and 26 followers.",
+      "views_label": "33K",
+      "board_rank": 22,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    }
+  ],
+  "virals_narrative": "Outsiders are dominated by the Anthropic IPO/S-1 story and GPT-6.1 Terra, plus the Claude-vs-Codex coding debate.",
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "you_rank": null,
+  "trend_input_only": [
+    "@anthropicai",
+    "@cursor_ai",
+    "@karpathy",
+    "@rowancheung",
+    "@sama",
+    "@ylecun"
+  ],
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "outsider-01",
+      "handle": "@OpenAI",
+      "views": 3400000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "outsider-02",
+      "handle": "@gdb",
+      "views": 1100000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "outsider-03",
+      "handle": "@WatcherGuru",
+      "views": 1000000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "outsider-04",
+      "handle": "@Denche2005",
+      "views": 713000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "outsider-05",
+      "handle": "@jaminball",
+      "views": 609000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "outsider-06",
+      "handle": "@HighyieldHarry",
+      "views": 324000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "outsider-07",
+      "handle": "@FirstSquawk",
+      "views": 280000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "outsider-08",
+      "handle": "@elijs_dev",
+      "views": 208000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2114503849826549842",
+      "handle": "@emollick",
+      "views": 178291,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 10,
+      "id": "outsider-09",
+      "handle": "@theo",
+      "views": 177000,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-10-26",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Anthropic",
+        "rank": 1,
+        "score": 112.9,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "model",
+        "rank": 2,
+        "score": 60.6,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "IPO",
+        "rank": 3,
+        "score": 37.4,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "S-1",
+        "rank": 4,
+        "score": 34.6,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Claude",
+        "rank": 5,
+        "score": 29.2,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Agents",
+        "rank": 6,
+        "score": 25.9,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "T3 Code",
+        "rank": 7,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "API",
+        "rank": 8,
+        "score": 16.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Anthropic's",
+        "rank": 9,
+        "score": 14.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "discoveries",
+        "rank": 10,
+        "curated": true
+      },
+      {
+        "keyword": "hypothesis",
+        "rank": 11,
+        "curated": true
+      },
+      {
+        "keyword": "vibe coding",
+        "rank": 12,
+        "curated": true
+      },
+      {
+        "keyword": "ambitious",
+        "rank": 13,
+        "curated": true
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-10-26",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-10-27T10:45:00+05:00",
+      "label24": "26.10 10:45 - 27.10 10:45 UTC",
+      "label48": "25.10 10:45 - 27.10 10:45 UTC"
+    },
+    "corpus": {
+      "posts": 32,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 11,
+        "outsider": 20,
+        "24h": 0,
+        "trend_input": 1
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 2/10 (20%) matched trends · coincidence/other 5, author/audience 3, trend 2",
+      "headline": "4 of 31 board hits (13%) matched 24-48 h trends. Median views: trend 335.0K vs non-trend 57.0K (mean 418.8K vs 272.9K). Watchlist: 1/11 on trend. 1 hits with video, median 17.8K vs 13.3K without.",
+      "takeaway": "The Anthropic IPO story and GPT-6.1 Terra dominate the sample: lead with the S-1 numbers and the computer-use demo, and let the Claude-versus-Codex debate carry the replies.",
+      "stats": {
+        "all": {
+          "n": 31,
+          "trend_n": 4,
+          "trend_pct": 13,
+          "avg_trend": 418758,
+          "avg_other": 272877,
+          "median_trend": 335000,
+          "median_other": 57000,
+          "verdicts": {
+            "trend": 4,
+            "visual": 8,
+            "author/audience": 3,
+            "coincidence/other": 16
+          }
+        },
+        "watchlist": {
+          "n": 11,
+          "trend_n": 1,
+          "trend_pct": 9,
+          "avg_trend": 5030,
+          "avg_other": 38169,
+          "median_trend": 5030,
+          "median_other": 18162,
+          "verdicts": {
+            "trend": 1,
+            "visual": 8,
+            "author/audience": 0,
+            "coincidence/other": 2
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 3,
+          "trend_pct": 15,
+          "avg_trend": 556667,
+          "avg_other": 410941,
+          "median_trend": 609000,
+          "median_other": 166000,
+          "verdicts": {
+            "trend": 3,
+            "visual": 0,
+            "author/audience": 3,
+            "coincidence/other": 14
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 2,
+          "trend_pct": 20,
+          "avg_trend": 804500,
+          "avg_other": 797536,
+          "median_trend": 804500,
+          "median_other": 302000,
+          "verdicts": {
+            "trend": 2,
+            "visual": 0,
+            "author/audience": 3,
+            "coincidence/other": 5
+          }
+        },
+        "media": {
+          "video_n": 1,
+          "median_video": 17849,
+          "other_n": 10,
+          "median_other": 13253
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Anthropic / IPO",
+        "keywords": [
+          "Anthropic",
+          "S-1",
+          "Claude",
+          "IPO",
+          "Anthropic's"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 2,
+        "views_24h": 6509038,
+        "views_prev24h": 0,
+        "views_48h": 6509038,
+        "momentum": "new · 24 h only",
+        "heat_raw": 10.51,
+        "evidence": [
+          {
+            "handle": "@AnthropicAI",
+            "views": 6504008,
+            "url": "https://x.com/AnthropicAI/status/2114705042817110293",
+            "hook": "Anthropic filed an S-1 with the SEC for a proposed IPO.",
+            "lane": "trend_input"
+          },
+          {
+            "handle": "@TheRundownAI",
+            "views": 5030,
+            "url": "https://x.com/TheRundownAI/status/2114744285941915951",
+            "hook": "Per the S-1: Anthropic's internal Claude use passed monthly personnel costs in April, up 250x Jan-Sep.",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "model",
+        "keywords": [
+          "model"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 2,
+        "views_24h": 28542,
+        "views_prev24h": 0,
+        "views_48h": 28542,
+        "momentum": "new · 24 h only",
+        "heat_raw": 8.14,
+        "evidence": [
+          {
+            "handle": "@_akhaliq",
+            "views": 22339,
+            "url": "https://x.com/_akhaliq/status/2114730501626015880",
+            "hook": "New paper: on-policy self-training for data-free self-improvement in large language models.",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@TheRundownAI",
+            "views": 6203,
+            "url": "https://x.com/TheRundownAI/status/2114665921763508475",
+            "hook": "Top AI stories: Kimi K3.1 Pro, signing in without sharing passwords, Canva's image model.",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 77
+      },
+      {
+        "name": "Agents",
+        "keywords": [
+          "Agents"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 2,
+        "views_24h": 13796,
+        "views_prev24h": 0,
+        "views_48h": 13796,
+        "momentum": "new · 24 h only",
+        "heat_raw": 7.67,
+        "evidence": [
+          {
+            "handle": "@_akhaliq",
+            "views": 8030,
+            "url": "https://x.com/_akhaliq/status/2114730217562665324",
+            "hook": "HiSTEVE 1.0: human-interface VLA agents for open-world games.",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@tdinh_me",
+            "views": 5766,
+            "url": "https://x.com/tdinh_me/status/2114645022775902284",
+            "hook": "Self-quote: buy a license, get the code, let your agents customize it.",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 73
+      },
+      {
+        "name": "API",
+        "keywords": [
+          "API"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 1,
+        "views_24h": 30500,
+        "views_prev24h": 0,
+        "views_48h": 30500,
+        "momentum": "new · 24 h only",
+        "heat_raw": 4.48,
+        "evidence": [
+          {
+            "handle": "@tdinh_me",
+            "views": 30500,
+            "url": "https://x.com/tdinh_me/status/2114623624267407864",
+            "hook": "New macOS app ClipAudit: a clipboard manager that detects and conceals API keys and secrets.",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 43
+      }
+    ],
+    "ideas": [
+      {
+        "angle": "OpenAI's computer-use model shown doing one ordinary workday task, start to finish.",
+        "format": "screencast",
+        "hook_en": "OpenAI's GPT-6.1 Terra wants to drive your computer. Here is what computer use gets right and where it still stumbles.",
+        "keywords": [
+          "OpenAI"
+        ],
+        "title": "What computer use actually looks like",
+        "topic": "OpenAI",
+        "visual": "Screencast: a screen agent opening apps and filling a form, with captions calling out each step it takes.",
+        "visual_type": "screencast",
+        "why": "The GPT-6.1 Terra announcement post drew 3.4M views, the biggest outsider post in the sample.",
+        "x_keywords": [
+          "OpenAI"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "Anthropic's S-1 filing explained without finance jargon, using only the numbers already circulating.",
+        "format": "image carousel",
+        "hook_en": "Anthropic's S-1 is out. Here is what the filing actually says, in plain numbers.",
+        "keywords": [
+          "Anthropic",
+          "S-1"
+        ],
+        "title": "Anthropic's S-1, in plain numbers",
+        "topic": "Anthropic",
+        "visual": "Carousel: one number per card - cash, capital raised, burn, quarterly revenue - with a final card on the risk warning in the filing.",
+        "visual_type": "carousel",
+        "why": "Anthropic S-1 posts drew 1M and 609K views in the outsider sample, and Anthropic's own filing post drew 6.5M.",
+        "x_keywords": [
+          "Anthropic"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "A practical way to pick between Claude Code and Codex for next month, based on the usage-limit debate.",
+        "format": "image",
+        "hook_en": "Claude Code or Codex? Pick one for next month, and here is the one-question test that decides it.",
+        "keywords": [
+          "Claude Code",
+          "Codex"
+        ],
+        "title": "Claude Code or Codex: the one-question test",
+        "topic": "Claude Code",
+        "visual": "Image card: two columns, Claude Code versus Codex, with one deciding question at the bottom.",
+        "visual_type": "image",
+        "why": "Claude Code versus Codex posts drew 177K, 138K and 139K views across the keyword sample.",
+        "x_keywords": [
+          "Claude Code",
+          "Codex"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "Open source security tooling that runs a full pentest from a subscription, explained for builders.",
+        "format": "image",
+        "hook_en": "Open source pentesting just got a new mascot: connect a subscription, run a full pentest, get a working proof of concept with every finding.",
+        "keywords": [
+          "open source"
+        ],
+        "title": "Open source pentesting, no API bill",
+        "topic": "open source",
+        "visual": "Image card: a terminal window showing a pentest report with a proof of concept attached to each finding.",
+        "visual_type": "image",
+        "why": "The open source pentest post drew 109K views, the top open source result in the last-24h sample.",
+        "x_keywords": [
+          "open source"
+        ],
+        "x_rank": 8,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "A reality check on AI agents in production, drawn from the most-shared agent post in the sample.",
+        "format": "meme",
+        "hook_en": "Most AI agents in production are a cron job with an API key and a system prompt. Here is how to tell which kind you are running.",
+        "keywords": [
+          "AI agents"
+        ],
+        "title": "Most AI agents are cron jobs in disguise",
+        "topic": "AI agents",
+        "visual": "Meme: a cron job wearing a trench coat labelled AI agent, with the caption as the punchline.",
+        "visual_type": "meme",
+        "why": "The cron-job take on AI agents is the most repeated agent post across both search windows.",
+        "x_keywords": [
+          "AI agents"
+        ],
+        "x_rank": 10,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "The vibe coding wave has passed, and the winning posts now celebrate learning to program properly.",
+        "format": "video",
+        "hook_en": "Vibe coding had its moment. The posts winning now are from people going back to learning to program.",
+        "keywords": [
+          "vibe coding"
+        ],
+        "title": "Vibe coding is over, learning is back",
+        "topic": "vibe coding",
+        "visual": "Short video: a coder closing an AI chat window and opening a textbook, with the hook as on-screen text.",
+        "visual_type": "video",
+        "why": "The leading vibe coding post drew 208K views, and the topic's previous-window sample was far larger than its last-24h one.",
+        "x_keywords": [
+          "vibe coding"
+        ],
+        "x_rank": 12,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "A fast prompt injection check anyone running a coding agent can run before trusting it with a new repo.",
+        "format": "screencast",
+        "hook_en": "A 60 second prompt injection test for your coding agent, before it reads a poisoned file.",
+        "keywords": [
+          "prompt injection"
+        ],
+        "title": "A 60 second prompt injection test",
+        "topic": "prompt injection",
+        "visual": "Screencast: paste a poisoned instruction into a coding agent's workspace, watch what it tries to do, then show the fix.",
+        "visual_type": "screencast",
+        "why": "Prompt injection is the smallest keyword in the sample, but the MCP fault-injection post drew 8K and the security angle is underserved.",
+        "x_keywords": [
+          "prompt injection"
+        ],
+        "x_rank": 15,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "keywords": [
+          "Anthropic",
+          "OpenAI"
+        ],
+        "outline": [
+          "What Anthropic's S-1 filing actually discloses",
+          "What the risk warning means for users",
+          "What GPT-6.1 Terra changes about computer use",
+          "What to watch next in both stories"
+        ],
+        "thesis": "Two announcements in one week show AI companies shifting from research demos to public-market and workplace products.",
+        "title": "The week AI went public: Anthropic's S-1 and OpenAI's computer-use push",
+        "visual": "Cover: split image of a stock filing and a computer screen being driven by an agent.",
+        "why": "Anthropic and OpenAI are the top two keywords in the 24h sample, with 1.8M and 4.8M sampled views.",
+        "x_keywords": [
+          "Anthropic",
+          "OpenAI"
+        ]
+      },
+      {
+        "keywords": [
+          "Claude Code",
+          "Codex"
+        ],
+        "outline": [
+          "The usage-limit fight in both camps",
+          "Where banks and teams draw the line",
+          "The one-question test for picking a tool",
+          "What to try for a week before committing"
+        ],
+        "thesis": "Developers are not choosing on benchmarks; they are choosing on usage limits, bans, and which tool survives a real workday.",
+        "title": "Claude Code versus Codex: how developers actually choose",
+        "visual": "Cover: side-by-side terminal screenshots, one per tool, with a usage meter under each.",
+        "why": "Claude Code and Codex posts dominate the coding-tool sample, with several posts above 100K views.",
+        "x_keywords": [
+          "Claude Code",
+          "Codex"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2114503849826549842",
+        "handle": "@emollick",
+        "lane": "watchlist",
+        "views": 178291,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114431852517724181",
+        "handle": "@levelsio",
+        "lane": "watchlist",
+        "views": 86619,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114623624267407864",
+        "handle": "@tdinh_me",
+        "lane": "watchlist",
+        "views": 30500,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "API"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "API",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114730501626015880",
+        "handle": "@_akhaliq",
+        "lane": "watchlist",
+        "views": 22339,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "model",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114510984689639894",
+        "handle": "@levelsio",
+        "lane": "watchlist",
+        "views": 18476,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114730846426890689",
+        "handle": "@_akhaliq",
+        "lane": "watchlist",
+        "views": 17849,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114730217562665324",
+        "handle": "@_akhaliq",
+        "lane": "watchlist",
+        "views": 8030,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Agents"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Agents",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114644124133630403",
+        "handle": "@tdinh_me",
+        "lane": "watchlist",
+        "views": 7613,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": true,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114665921763508475",
+        "handle": "@TheRundownAI",
+        "lane": "watchlist",
+        "views": 6203,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "model",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114645022775902284",
+        "handle": "@tdinh_me",
+        "lane": "watchlist",
+        "views": 5766,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Agents"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Agents",
+        "self_quote": true,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114744285941915951",
+        "handle": "@TheRundownAI",
+        "lane": "watchlist",
+        "views": 5030,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "S-1",
+          "Claude",
+          "Anthropic's"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "outsider-01",
+        "handle": "@OpenAI",
+        "lane": "outsider",
+        "views": 3400000,
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "model",
+        "self_quote": false,
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
+      },
+      {
+        "id": "outsider-02",
+        "handle": "@gdb",
+        "lane": "outsider",
+        "views": 1100000,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
+      },
+      {
+        "id": "outsider-03",
+        "handle": "@WatcherGuru",
+        "lane": "outsider",
+        "views": 1000000,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "model",
+          "IPO"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-04",
+        "handle": "@Denche2005",
+        "lane": "outsider",
+        "views": 713000,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
+      },
+      {
+        "id": "outsider-05",
+        "handle": "@jaminball",
+        "lane": "outsider",
+        "views": 609000,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "S-1"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-06",
+        "handle": "@HighyieldHarry",
+        "lane": "outsider",
+        "views": 324000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-07",
+        "handle": "@FirstSquawk",
+        "lane": "outsider",
+        "views": 280000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-08",
+        "handle": "@elijs_dev",
+        "lane": "outsider",
+        "views": 208000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-09",
+        "handle": "@theo",
+        "lane": "outsider",
+        "views": 177000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-10",
+        "handle": "@Moneymirweather",
+        "lane": "outsider",
+        "views": 171000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-11",
+        "handle": "@Denche2005",
+        "lane": "outsider",
+        "views": 166000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-12",
+        "handle": "@KeygraphHQ",
+        "lane": "outsider",
+        "views": 109000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "API"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "API",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-13",
+        "handle": "@jukan05",
+        "lane": "outsider",
+        "views": 71000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-14",
+        "handle": "@CNN",
+        "lane": "outsider",
+        "views": 61000,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "IPO",
+          "Claude",
+          "Anthropic's"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-15",
+        "handle": "@bensenescu",
+        "lane": "outsider",
+        "views": 57000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-16",
+        "handle": "@theo",
+        "lane": "outsider",
+        "views": 51000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-17",
+        "handle": "@SamVale29",
+        "lane": "outsider",
+        "views": 46000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-18",
+        "handle": "@brianchau57",
+        "lane": "outsider",
+        "views": 41000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Anthropic / IPO",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-19",
+        "handle": "@giadotai",
+        "lane": "outsider",
+        "views": 39000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "model",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "outsider-20",
+        "handle": "@somudatta06",
+        "lane": "outsider",
+        "views": 33000,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-10-27T05:47:00+00:00",
+      "window_start": "2026-10-25T05:47:00Z",
+      "calls": 32,
+      "method": "Read-only browser Top-tab sample, Oct 27 2026: 16 keywords, 2 UTC windows each (last 24h and previous 24h, UTC, shifted 5h vs PKT), up to 10 posts per window from the first Top-tab load, replies excluded where identifiable. This is a SAMPLE of top-ranked posts, not every post on X. X's Top tab repeated many posts across both windows, so 24h-vs-previous comparisons are blurred and the trend arrows are unreliable this run; rank uses the 24h window total. Views are as shown at fetch time. Individual post URLs were not captured from search list view.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 10,
+      "keywords": [
+        {
+          "keyword": "OpenAI",
+          "query": "\"OpenAI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 8,
+            "total": 4791570,
+            "median": 4800,
+            "top": {
+              "views": 3400000,
+              "url": "https://x.com/OpenAI/status/xkw-openai-24h-0",
+              "handle": "@OpenAI",
+              "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, ta"
+            }
+          },
+          "prev24": {
+            "n": 6,
+            "total": 355064,
+            "median": 16850,
+            "top": {
+              "views": 280000,
+              "url": "https://x.com/FirstSquawk/status/xkw-openai-prev24h-0",
+              "handle": "@FirstSquawk",
+              "text": "OPENAI SAYS ITS SYSTEM HAS RECENTLY PROVED THAT THE EXPONENTIAL TIME HYPOTHESIS IS FALSE - WEBSITE"
+            }
+          },
+          "w48": {
+            "n": 14,
+            "total": 5146634,
+            "top": {
+              "views": 3400000,
+              "url": "https://x.com/OpenAI/status/xkw-openai-24h-0",
+              "handle": "@OpenAI",
+              "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what's on screen, ta"
+            }
+          },
+          "change": 13.49,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.71,
+          "rank": 1
+        },
+        {
+          "keyword": "Anthropic",
+          "query": "\"Anthropic\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 8,
+            "total": 1841000,
+            "median": 50500,
+            "top": {
+              "views": 1000000,
+              "url": "https://x.com/WatcherGuru/status/xkw-anthropic-24h-0",
+              "handle": "@WatcherGuru",
+              "text": "JUST IN: Anthropic warns its AI models could pose catastrophic or existential risks to humanity in IPO filing."
+            }
+          },
+          "prev24": {
+            "n": 9,
+            "total": 320000,
+            "median": 26000,
+            "top": {
+              "views": 71000,
+              "url": "https://x.com/jukan05/status/xkw-anthropic-prev24h-0",
+              "handle": "@jukan05",
+              "text": "Anthropic has more cash and cash equivalents than Amazon. I don't understand why people keep spreading fearmongering FUD"
+            }
+          },
+          "w48": {
+            "n": 17,
+            "total": 2161000,
+            "top": {
+              "views": 1000000,
+              "url": "https://x.com/WatcherGuru/status/xkw-anthropic-24h-0",
+              "handle": "@WatcherGuru",
+              "text": "JUST IN: Anthropic warns its AI models could pose catastrophic or existential risks to humanity in IPO filing."
+            }
+          },
+          "change": 5.75,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.54,
+          "rank": 2
+        },
+        {
+          "keyword": "Grok",
+          "query": "\"Grok\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 7,
+            "total": 1010536,
+            "median": 49000,
+            "top": {
+              "views": 713000,
+              "url": "https://x.com/Denche2005/status/xkw-grok-24h-0",
+              "handle": "@Denche2005",
+              "text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest."
+            }
+          },
+          "prev24": {
+            "n": 7,
+            "total": 1092440,
+            "median": 82000,
+            "top": {
+              "views": 713000,
+              "url": "https://x.com/Denche2005/status/xkw-grok-prev24h-0",
+              "handle": "@Denche2005",
+              "text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest."
+            }
+          },
+          "w48": {
+            "n": 14,
+            "total": 2102976,
+            "top": {
+              "views": 713000,
+              "url": "https://x.com/Denche2005/status/xkw-grok-24h-0",
+              "handle": "@Denche2005",
+              "text": "Hey @grok, how long until AI can fully replace me at my job? I'm a Data Scientist. Be honest."
+            }
+          },
+          "change": 0.93,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.71,
+          "rank": 3
+        },
+        {
+          "keyword": "LLM",
+          "query": "\"LLM\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 9,
+            "total": 522428,
+            "median": 11000,
+            "top": {
+              "views": 324000,
+              "url": "https://x.com/HighyieldHarry/status/xkw-llm-24h-0",
+              "handle": "@HighyieldHarry",
+              "text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and"
+            }
+          },
+          "prev24": {
+            "n": 9,
+            "total": 467582,
+            "median": 9300,
+            "top": {
+              "views": 324000,
+              "url": "https://x.com/HighyieldHarry/status/xkw-llm-prev24h-0",
+              "handle": "@HighyieldHarry",
+              "text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and"
+            }
+          },
+          "w48": {
+            "n": 18,
+            "total": 990010,
+            "top": {
+              "views": 324000,
+              "url": "https://x.com/HighyieldHarry/status/xkw-llm-24h-0",
+              "handle": "@HighyieldHarry",
+              "text": "Hate to say it but AI has probably money balled fantasy football. I did a big data dump of fantasy football analysis and"
+            }
+          },
+          "change": 1.12,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.62,
+          "rank": 4
+        },
+        {
+          "keyword": "Claude Code",
+          "query": "\"Claude Code\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 428300,
+            "median": 14950,
+            "top": {
+              "views": 177000,
+              "url": "https://x.com/theo/status/xkw-claude_code-24h-0",
+              "handle": "@theo",
+              "text": "Please don't do this. If you have multiple accounts, don't put them all in T3 Code. CLIProxy is trivial to set up. I've "
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 248618,
+            "median": 1950,
+            "top": {
+              "views": 192000,
+              "url": "https://x.com/tobiadonadon_/status/xkw-claude_code-prev24h-0",
+              "handle": "@tobiadonadon_",
+              "text": "the marketing gold rush is here creating high quality animations with claude is really cheap but it's not easy, nor fast"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 676918,
+            "top": {
+              "views": 192000,
+              "url": "https://x.com/tobiadonadon_/status/xkw-claude_code-prev24h-0",
+              "handle": "@tobiadonadon_",
+              "text": "the marketing gold rush is here creating high quality animations with claude is really cheap but it's not easy, nor fast"
+            }
+          },
+          "change": 1.72,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.41,
+          "rank": 5
+        },
+        {
+          "keyword": "Cursor",
+          "query": "\"Cursor\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 8,
+            "total": 170059,
+            "median": 266,
+            "top": {
+              "views": 168000,
+              "url": "https://x.com/cursor_ai/status/xkw-cursor-24h-0",
+              "handle": "@cursor_ai",
+              "text": "DeepSeek V4.1 Flash is now available in Cursor! Every effort level sits on the CursorBench cost frontier: from $0.60 to "
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 172853,
+            "median": 493,
+            "top": {
+              "views": 168000,
+              "url": "https://x.com/cursor_ai/status/xkw-cursor-prev24h-0",
+              "handle": "@cursor_ai",
+              "text": "DeepSeek V4.1 Flash is now available in Cursor! Every effort level sits on the CursorBench cost frontier: from $0.60 to "
+            }
+          },
+          "w48": {
+            "n": 18,
+            "total": 342912,
+            "top": {
+              "views": 168000,
+              "url": "https://x.com/cursor_ai/status/xkw-cursor-24h-0",
+              "handle": "@cursor_ai",
+              "text": "DeepSeek V4.1 Flash is now available in Cursor! Every effort level sits on the CursorBench cost frontier: from $0.60 to "
+            }
+          },
+          "change": 0.98,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.99,
+          "rank": 6
+        },
+        {
+          "keyword": "Codex",
+          "query": "(Codex OR \"OpenAI Codex\") (OpenAI OR coding OR agent) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 166422,
+            "median": 1350,
+            "top": {
+              "views": 139000,
+              "url": "https://x.com/altantutar/status/xkw-codex-24h-0",
+              "handle": "@altantutar",
+              "text": "Interviewed an engineer friend who works at a traditional major bank. Very interesting observations: Junior engineers ar"
+            }
+          },
+          "prev24": {
+            "n": 9,
+            "total": 11980,
+            "median": 390,
+            "top": {
+              "views": 5900,
+              "url": "https://x.com/melvindvivas/status/xkw-codex-prev24h-0",
+              "handle": "@melvindvivas",
+              "text": "Is anyone still using Codex? All my friends have moved to Claude Code They are not even in X"
+            }
+          },
+          "w48": {
+            "n": 19,
+            "total": 178402,
+            "top": {
+              "views": 139000,
+              "url": "https://x.com/altantutar/status/xkw-codex-24h-0",
+              "handle": "@altantutar",
+              "text": "Interviewed an engineer friend who works at a traditional major bank. Very interesting observations: Junior engineers ar"
+            }
+          },
+          "change": 13.89,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.84,
+          "rank": 7
+        },
+        {
+          "keyword": "open source",
+          "query": "\"open source\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 8,
+            "total": 139178,
+            "median": 2250,
+            "top": {
+              "views": 109000,
+              "url": "https://x.com/KeygraphHQ/status/xkw-open_source-24h-0",
+              "handle": "@KeygraphHQ",
+              "text": "Grok is now your on-demand AI hacker. Connect your xAI subscription to Shannon and run full pentests on your own apps. N"
+            }
+          },
+          "prev24": {
+            "n": 9,
+            "total": 1787395,
+            "median": 3000,
+            "top": {
+              "views": 1700000,
+              "url": "https://x.com/addyosmani/status/xkw-open_source-prev24h-0",
+              "handle": "@addyosmani",
+              "text": "How the Claude Code team does code review We previously mentioned that Claude writes about 90 percent of the code for Cl"
+            }
+          },
+          "w48": {
+            "n": 17,
+            "total": 1926573,
+            "top": {
+              "views": 1700000,
+              "url": "https://x.com/addyosmani/status/xkw-open_source-prev24h-0",
+              "handle": "@addyosmani",
+              "text": "How the Claude Code team does code review We previously mentioned that Claude writes about 90 percent of the code for Cl"
+            }
+          },
+          "change": 0.08,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.78,
+          "rank": 8
+        },
+        {
+          "keyword": "ChatGPT",
+          "query": "\"ChatGPT\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 9,
+            "total": 74359,
+            "median": 646,
+            "top": {
+              "views": 39000,
+              "url": "https://x.com/giadotai/status/xkw-chatgpt-24h-0",
+              "handle": "@giadotai",
+              "text": "chatgpt plus users might finally get better limits with the next openai model."
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 742977,
+            "median": 9800,
+            "top": {
+              "views": 493000,
+              "url": "https://x.com/NextGenAi5/status/xkw-chatgpt-prev24h-0",
+              "handle": "@NextGenAi5",
+              "text": "WHAT HAPPENS WHEN YOU ASK CHATGPT TO FIND EVERY PHOTO OF YOU ON THE INTERNET? I tried it. It found me in photos I didn't"
+            }
+          },
+          "w48": {
+            "n": 19,
+            "total": 817336,
+            "top": {
+              "views": 493000,
+              "url": "https://x.com/NextGenAi5/status/xkw-chatgpt-prev24h-0",
+              "handle": "@NextGenAi5",
+              "text": "WHAT HAPPENS WHEN YOU ASK CHATGPT TO FIND EVERY PHOTO OF YOU ON THE INTERNET? I tried it. It found me in photos I didn't"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 9
+        },
+        {
+          "keyword": "AI agents",
+          "query": "\"AI agents\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 9,
+            "total": 59377,
+            "median": 1500,
+            "top": {
+              "views": 33000,
+              "url": "https://x.com/somudatta06/status/xkw-ai_agents-24h-0",
+              "handle": "@somudatta06",
+              "text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Ev"
+            }
+          },
+          "prev24": {
+            "n": 8,
+            "total": 49723,
+            "median": 2300,
+            "top": {
+              "views": 33000,
+              "url": "https://x.com/somudatta06/status/xkw-ai_agents-prev24h-0",
+              "handle": "@somudatta06",
+              "text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Ev"
+            }
+          },
+          "w48": {
+            "n": 17,
+            "total": 109100,
+            "top": {
+              "views": 33000,
+              "url": "https://x.com/somudatta06/status/xkw-ai_agents-24h-0",
+              "handle": "@somudatta06",
+              "text": "I've been on X for 15 minutes. Everyone has an AI agent. Everyone is making $10k MRR. Everyone is building in public. Ev"
+            }
+          },
+          "change": 1.19,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.56,
+          "rank": 10
+        },
+        {
+          "keyword": "MCP",
+          "query": "(MCP OR \"MCP server\") (AI OR agent OR server) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 5,
+            "total": 11094,
+            "median": 616,
+            "top": {
+              "views": 8000,
+              "url": "https://x.com/dair_ai/status/xkw-mcp-24h-0",
+              "handle": "@dair_ai",
+              "text": "Be careful when integrating MCP tools into production. This work shows that a 120B model handles realistic MCP tool fail"
+            }
+          },
+          "prev24": {
+            "n": 6,
+            "total": 16789,
+            "median": 1208,
+            "top": {
+              "views": 8000,
+              "url": "https://x.com/dair_ai/status/xkw-mcp-prev24h-0",
+              "handle": "@dair_ai",
+              "text": "Be careful when integrating MCP tools into production. This work shows that a 120B model handles realistic MCP tool fail"
+            }
+          },
+          "w48": {
+            "n": 11,
+            "total": 27883,
+            "top": {
+              "views": 8000,
+              "url": "https://x.com/dair_ai/status/xkw-mcp-24h-0",
+              "handle": "@dair_ai",
+              "text": "Be careful when integrating MCP tools into production. This work shows that a 120B model handles realistic MCP tool fail"
+            }
+          },
+          "change": 0.66,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.72,
+          "rank": 11
+        },
+        {
+          "keyword": "vibe coding",
+          "query": "\"vibe coding\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 8660,
+            "median": 440,
+            "top": {
+              "views": 2900,
+              "url": "https://x.com/DrLutzBoehm/status/xkw-vibe_coding-24h-0",
+              "handle": "@DrLutzBoehm",
+              "text": "Will vibe coding usher in a new era of open source software?"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 221075,
+            "median": 558,
+            "top": {
+              "views": 208000,
+              "url": "https://x.com/elijs_dev/status/xkw-vibe_coding-prev24h-0",
+              "handle": "@elijs_dev",
+              "text": "Yeah, the coding vibe is over Everyone is going back to learning to program"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 229735,
+            "top": {
+              "views": 208000,
+              "url": "https://x.com/elijs_dev/status/xkw-vibe_coding-prev24h-0",
+              "handle": "@elijs_dev",
+              "text": "Yeah, the coding vibe is over Everyone is going back to learning to program"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.33,
+          "rank": 12
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 4,
+            "total": 5022,
+            "median": 445,
+            "top": {
+              "views": 4100,
+              "url": "https://x.com/im_shahid7/status/xkw-ai_video-24h-0",
+              "handle": "@im_shahid7",
+              "text": "Seedance 2.5 can literally cook Hollywood in coming years Made on @itsPolloAI"
+            }
+          },
+          "prev24": {
+            "n": 4,
+            "total": 10683,
+            "median": 2488,
+            "top": {
+              "views": 5200,
+              "url": "https://x.com/coderpr0grammer/status/xkw-ai_video-prev24h-0",
+              "handle": "@coderpr0grammer",
+              "text": "AI video editors are a scam. You still have to sit down for hours and tell it exactly what to do. So we built Gorg.ai, t"
+            }
+          },
+          "w48": {
+            "n": 8,
+            "total": 15705,
+            "top": {
+              "views": 5200,
+              "url": "https://x.com/coderpr0grammer/status/xkw-ai_video-prev24h-0",
+              "handle": "@coderpr0grammer",
+              "text": "AI video editors are a scam. You still have to sit down for hours and tell it exactly what to do. So we built Gorg.ai, t"
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.82,
+          "rank": 13
+        },
+        {
+          "keyword": "Gemini",
+          "query": "\"Gemini\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 7,
+            "total": 4665,
+            "median": 297,
+            "top": {
+              "views": 1800,
+              "url": "https://x.com/OperaRosa/status/xkw-gemini-24h-0",
+              "handle": "@OperaRosa",
+              "text": "Please do this, what a laugh I got. On top of that, it sticks with you and leaves you thinking. I did it in ChatGPT and "
+            }
+          },
+          "prev24": {
+            "n": 9,
+            "total": 182305,
+            "median": 1800,
+            "top": {
+              "views": 164000,
+              "url": "https://x.com/koftiolsambari/status/xkw-gemini-prev24h-0",
+              "handle": "@koftiolsambari",
+              "text": "Gemini Pro's student special campaign is about to end, should I continue with that one or get ChatGPT Pro? If anyone use"
+            }
+          },
+          "w48": {
+            "n": 16,
+            "total": 186970,
+            "top": {
+              "views": 164000,
+              "url": "https://x.com/koftiolsambari/status/xkw-gemini-prev24h-0",
+              "handle": "@koftiolsambari",
+              "text": "Gemini Pro's student special campaign is about to end, should I continue with that one or get ChatGPT Pro? If anyone use"
+            }
+          },
+          "change": 0.03,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.39,
+          "rank": 14
+        },
+        {
+          "keyword": "prompt injection",
+          "query": "\"prompt injection\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 2,
+            "total": 944,
+            "median": 472,
+            "top": {
+              "views": 620,
+              "url": "https://x.com/realFatCat1/status/xkw-prompt_injection-24h-0",
+              "handle": "@realFatCat1",
+              "text": "Prompt engineering is the new way to build code. Prompt injection is the new way to hack LLMs Much like humans spoofed H"
+            }
+          },
+          "prev24": {
+            "n": 5,
+            "total": 2123,
+            "median": 457,
+            "top": {
+              "views": 588,
+              "url": "https://x.com/robshocks/status/xkw-prompt_injection-prev24h-0",
+              "handle": "@robshocks",
+              "text": "Quick heads up guys - if you launch Claude Code or Codex from your Downloads folder, stop. Forever Security found a real"
+            }
+          },
+          "w48": {
+            "n": 7,
+            "total": 3067,
+            "top": {
+              "views": 620,
+              "url": "https://x.com/realFatCat1/status/xkw-prompt_injection-24h-0",
+              "handle": "@realFatCat1",
+              "text": "Prompt engineering is the new way to build code. Prompt injection is the new way to hack LLMs Much like humans spoofed H"
+            }
+          },
+          "change": 0.44,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.66,
+          "rank": 15
+        },
+        {
+          "keyword": "second brain",
+          "query": "\"second brain\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 1,
+            "total": 656,
+            "median": 656,
+            "top": {
+              "views": 656,
+              "url": "https://x.com/yurshevv/status/xkw-second_brain-24h-0",
+              "handle": "@yurshevv",
+              "text": "STOP HAND-BUILDING YOUR CLAUDE SECOND BRAIN. Obsidian's own CEO already open-sourced the whole thing on GitHub and 99% o"
+            }
+          },
+          "prev24": {
+            "n": 3,
+            "total": 438334,
+            "median": 159000,
+            "top": {
+              "views": 279000,
+              "url": "https://x.com/tsukiema_/status/xkw-second_brain-prev24h-0",
+              "handle": "@tsukiema_",
+              "text": "This is f*cking insane. SpaceXAI engineer Lauren Tan (ex-Cursor): 99% of people use GrokBot for 1% of what it can do. Th"
+            }
+          },
+          "w48": {
+            "n": 4,
+            "total": 438990,
+            "top": {
+              "views": 279000,
+              "url": "https://x.com/tsukiema_/status/xkw-second_brain-prev24h-0",
+              "handle": "@tsukiema_",
+              "text": "This is f*cking insane. SpaceXAI engineer Lauren Tan (ex-Cursor): 99% of people use GrokBot for 1% of what it can do. Th"
+            }
+          },
+          "change": 0.0,
+          "trend": "down",
+          "partial": false,
+          "top_share": 1.0,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}
