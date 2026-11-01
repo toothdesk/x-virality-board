@@ -611,7 +611,7 @@
       "views_label": "18.3K",
       "board_rank": 30,
       "why_hit": {
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "visual",
         "matched_keywords": [
           "coding"
@@ -674,56 +674,6 @@
       }
     },
     {
-      "handle": "@levelsio",
-      "name": "levelsio",
-      "display_name": "levelsio",
-      "views": 12218,
-      "url": "https://x.com/levelsio/status/2116311605776449961",
-      "status_url": "https://x.com/levelsio/status/2116311605776449961",
-      "posted_at": "2026-10-30T23:29:00Z",
-      "text": "A link to the author's nomads.com txt page.",
-      "full_text": "A link to the author's nomads.com txt page.",
-      "original_en": "A link to the author's nomads.com txt page.",
-      "media": "link card",
-      "self_quote": false,
-      "hook": "Link to nomads.com txt page.",
-      "views_label": "12.2K",
-      "board_rank": 33,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "text",
-        "note": "followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "handle": "@emollick",
-      "name": "Ethan Mollick",
-      "display_name": "Ethan Mollick",
-      "views": 10828,
-      "url": "https://x.com/emollick/status/2116334347196277141",
-      "status_url": "https://x.com/emollick/status/2116334347196277141",
-      "posted_at": "2026-10-31T01:00:00Z",
-      "text": "Big proprietary models look very different from each other, and not every open model overlaps so much with a closed one.",
-      "full_text": "Big proprietary models look very different from each other, and not every open model overlaps so much with a closed one.",
-      "original_en": "Big proprietary models look very different from each other, and not every open model overlaps so much with a closed one.",
-      "media": "image",
-      "self_quote": false,
-      "hook": "Proprietary models differ markedly from each other.",
-      "views_label": "10.8K",
-      "board_rank": 35,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "image",
-        "note": "followers: no data",
-        "topic": null
-      }
-    },
-    {
       "handle": "@tdinh_me",
       "name": "Tony Dinh",
       "display_name": "Tony Dinh",
@@ -738,7 +688,7 @@
       "self_quote": false,
       "hook": "Personalized software beats choosing among offerings.",
       "views_label": "7.0K",
-      "board_rank": 36,
+      "board_rank": 34,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -763,7 +713,7 @@
       "self_quote": false,
       "hook": "Halloween idea to try next year.",
       "views_label": "6.5K",
-      "board_rank": 37,
+      "board_rank": 35,
       "why_hit": {
         "trend_match": 22,
         "verdict": "coincidence/other",
@@ -776,7 +726,7 @@
       }
     }
   ],
-  "hits_count": 26,
+  "hits_count": 24,
   "leaderboards": {
     "as_of": "2026-10-31",
     "days_included": [
@@ -838,9 +788,9 @@
       "url": "https://x.com/halvenruns/status/2116255352438329556",
       "status_url": "https://x.com/halvenruns/status/2116255352438329556",
       "posted_at": "2026-10-31T12:00:00Z",
-      "text": "Claim that prompting is basically over, with engineers running swarms of 300-plus self-improving agents and shifting to graphs.",
-      "full_text": "Claim that prompting is basically over, with engineers running swarms of 300-plus self-improving agents and shifting to graphs.",
-      "original_en": "Claim that prompting is basically over, with engineers running swarms of 300-plus self-improving agents and shifting to graphs.",
+      "text": "Claim by an Anthropic research lead that prompting is basically over: 99% of engineers already run swarms of 300-plus self-improving agents, and everyone is shifting to graphs.",
+      "full_text": "Claim by an Anthropic research lead that prompting is basically over: 99% of engineers already run swarms of 300-plus self-improving agents, and everyone is shifting to graphs.",
+      "original_en": "Claim by an Anthropic research lead that prompting is basically over: 99% of engineers already run swarms of 300-plus self-improving agents, and everyone is shifting to graphs.",
       "media": "quoted post",
       "self_quote": false,
       "hook": "Prompting is over: swarms of 300-plus self-improving agents.",
@@ -1053,7 +1003,7 @@
       "self_quote": false,
       "hook": "Most Anthropic engineers on self-improving harnesses.",
       "views_label": "11.0K",
-      "board_rank": 34
+      "board_rank": 33
     },
     {
       "handle": "@engadget",
@@ -1070,7 +1020,7 @@
       "self_quote": false,
       "hook": "AI tools collect conversations; how to opt out.",
       "views_label": "5.9K",
-      "board_rank": 38
+      "board_rank": 36
     },
     {
       "handle": "@databricks",
@@ -1087,7 +1037,7 @@
       "self_quote": false,
       "hook": "AI agents querying data with understanding.",
       "views_label": "3.4K",
-      "board_rank": 39
+      "board_rank": 37
     },
     {
       "handle": "@Sabrina7772",
@@ -1104,7 +1054,7 @@
       "self_quote": false,
       "hook": "45-plus video tools sorted by face redrawing.",
       "views_label": "1.9K",
-      "board_rank": 40
+      "board_rank": 38
     },
     {
       "handle": "@Dipanshu_AI",
@@ -1121,7 +1071,7 @@
       "self_quote": false,
       "hook": "Anthropic engineering: from prompts to loops.",
       "views_label": "1.2K",
-      "board_rank": 41
+      "board_rank": 39
     },
     {
       "handle": "@ArdenBuilds",
@@ -1138,7 +1088,7 @@
       "self_quote": false,
       "hook": "Looking for people building with AI agents.",
       "views_label": "768",
-      "board_rank": 42
+      "board_rank": 40
     },
     {
       "handle": "@0xkichiro",
@@ -1155,7 +1105,7 @@
       "self_quote": false,
       "hook": "Amodei on leaving OpenAI to build Claude.",
       "views_label": "730",
-      "board_rank": 43
+      "board_rank": 41
     },
     {
       "handle": "@AMADuMetax",
@@ -1172,7 +1122,7 @@
       "self_quote": false,
       "hook": "Human side of training an AI agent.",
       "views_label": "342",
-      "board_rank": 44
+      "board_rank": 42
     },
     {
       "handle": "@tanu_hehe",
@@ -1189,7 +1139,7 @@
       "self_quote": false,
       "hook": "Looking to connect over AI, DevOps and SaaS building.",
       "views_label": "199",
-      "board_rank": 45
+      "board_rank": 43
     }
   ],
   "outsiders_count": 19,
@@ -1218,7 +1168,7 @@
   "ui": {
     "default_theme": "night"
   },
-  "updated": "2026-11-01T12:25:00+05:00",
+  "updated": "2026-11-01T13:30:00+05:00",
   "virals": [
     {
       "handle": "@halvenruns",
@@ -1249,11 +1199,12 @@
       },
       "top10_rank": 4,
       "why_hit": {
-        "trend_match": 58,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "agents",
-          "Anthropic"
+          "Anthropic",
+          "Anthropic research"
         ],
         "media": "text",
         "note": "followers: no data",
@@ -1498,8 +1449,8 @@
       "views_label": "23.0K",
       "board_rank": 27,
       "why_hit": {
-        "trend_match": 58,
-        "verdict": "trend",
+        "trend_match": 49,
+        "verdict": "coincidence/other",
         "matched_keywords": [
           "Claude Code",
           "coding"
@@ -1549,7 +1500,7 @@
       "self_quote": false,
       "hook": "Most Anthropic engineers on self-improving harnesses.",
       "views_label": "11.0K",
-      "board_rank": 34,
+      "board_rank": 33,
       "why_hit": {
         "trend_match": 73,
         "verdict": "trend",
@@ -1578,7 +1529,7 @@
       "self_quote": false,
       "hook": "AI tools collect conversations; how to opt out.",
       "views_label": "5.9K",
-      "board_rank": 38,
+      "board_rank": 36,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -1603,7 +1554,7 @@
       "self_quote": false,
       "hook": "AI agents querying data with understanding.",
       "views_label": "3.4K",
-      "board_rank": 39,
+      "board_rank": 37,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -1628,7 +1579,7 @@
       "self_quote": false,
       "hook": "45-plus video tools sorted by face redrawing.",
       "views_label": "1.9K",
-      "board_rank": 40,
+      "board_rank": 38,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -1653,7 +1604,7 @@
       "self_quote": false,
       "hook": "Anthropic engineering: from prompts to loops.",
       "views_label": "1.2K",
-      "board_rank": 41,
+      "board_rank": 39,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -1678,7 +1629,7 @@
       "self_quote": false,
       "hook": "Looking for people building with AI agents.",
       "views_label": "768",
-      "board_rank": 42,
+      "board_rank": 40,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -1703,7 +1654,7 @@
       "self_quote": false,
       "hook": "Amodei on leaving OpenAI to build Claude.",
       "views_label": "730",
-      "board_rank": 43,
+      "board_rank": 41,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -1728,7 +1679,7 @@
       "self_quote": false,
       "hook": "Human side of training an AI agent.",
       "views_label": "342",
-      "board_rank": 44,
+      "board_rank": 42,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -1753,7 +1704,7 @@
       "self_quote": false,
       "hook": "Looking to connect over AI, DevOps and SaaS building.",
       "views_label": "199",
-      "board_rank": 45,
+      "board_rank": 43,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -1877,9 +1828,9 @@
       {
         "keyword": "Anthropic",
         "rank": 4,
-        "score": 63.3,
-        "posts": 5,
-        "authors": 5
+        "score": 91.3,
+        "posts": 6,
+        "authors": 6
       },
       {
         "keyword": "Opus 5.5",
@@ -1896,99 +1847,106 @@
         "authors": 3
       },
       {
-        "keyword": "Video",
+        "keyword": "Anthropic research",
         "rank": 7,
+        "score": 24.5,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Video",
+        "rank": 8,
         "score": 23.5,
         "posts": 3,
         "authors": 3
       },
       {
         "keyword": "0.055 euros",
-        "rank": 8,
+        "rank": 9,
         "score": 20.5,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "Anthropic engineers",
-        "rank": 9,
+        "rank": 10,
         "score": 20.4,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "coding",
-        "rank": 10,
+        "rank": 11,
         "score": 19.8,
         "posts": 3,
         "authors": 3
       },
       {
         "keyword": "ChatGPT",
-        "rank": 11,
+        "rank": 12,
         "score": 18.3,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "AI tax",
-        "rank": 12,
+        "rank": 13,
         "score": 18.0,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "Dario Amodei",
-        "rank": 13,
+        "rank": 14,
         "score": 16.0,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "Germany",
-        "rank": 14,
+        "rank": 15,
         "score": 15.8,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "France's",
-        "rank": 15,
-        "score": 14.0,
-        "posts": 2,
-        "authors": 1
-      },
-      {
-        "keyword": "Europe",
         "rank": 16,
         "score": 14.0,
         "posts": 2,
         "authors": 1
       },
       {
-        "keyword": "Halloween",
+        "keyword": "Europe",
         "rank": 17,
+        "score": 14.0,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Halloween",
+        "rank": 18,
         "score": 13.7,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "Codex",
-        "rank": 18,
+        "rank": 19,
         "score": 13.3,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "French",
-        "rank": 19,
+        "rank": 20,
         "score": 11.9,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "training",
-        "rank": 20,
+        "rank": 21,
         "score": 11.7,
         "posts": 2,
         "authors": 2
@@ -1999,15 +1957,15 @@
     "date": "2026-10-31",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-11-01T12:25:00+05:00",
-      "label24": "31.10 12:25 - 01.11 12:25 UTC",
-      "label48": "30.10 12:25 - 01.11 12:25 UTC"
+      "end": "2026-11-01T13:30:00+05:00",
+      "label24": "31.10 13:30 - 01.11 13:30 UTC",
+      "label48": "30.10 13:30 - 01.11 13:30 UTC"
     },
     "corpus": {
-      "posts": 39,
+      "posts": 37,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 26,
+        "watchlist": 24,
         "outsider": 12,
         "24h": 0,
         "trend_input": 1
@@ -2015,52 +1973,52 @@
     },
     "summary": {
       "top10_line": "TOP-10: 3/10 (30%) matched trends · trend 3, author/audience 3, visual 2, coincidence/other 2",
-      "headline": "6 of 45 board hits (13%) matched 24-48 h trends. Median views: trend 57.0K vs non-trend 40.0K (mean 106.3K vs 190.8K). Watchlist: 0/26 on trend. 5 hits with video, median 20.0K vs 45.3K without.",
+      "headline": "5 of 43 board hits (12%) matched 24-48 h trends. Median views: trend 81.0K vs non-trend 41.2K (mean 123.0K vs 195.8K). Watchlist: 0/24 on trend. 5 hits with video, median 20.0K vs 49.6K without.",
       "takeaway": "Neither trend nor video decided it alone: keep the top radar topic, bet on a strong hook and usefulness (Claude / Opus 5.5).",
       "stats": {
         "all": {
-          "n": 45,
-          "trend_n": 6,
-          "trend_pct": 13,
-          "avg_trend": 106333,
-          "avg_other": 190751,
-          "median_trend": 57000,
-          "median_other": 40000,
+          "n": 43,
+          "trend_n": 5,
+          "trend_pct": 12,
+          "avg_trend": 123000,
+          "avg_other": 195769,
+          "median_trend": 81000,
+          "median_other": 41198,
           "verdicts": {
-            "trend": 6,
-            "visual": 12,
+            "trend": 5,
+            "visual": 11,
             "author/audience": 3,
             "coincidence/other": 24
           }
         },
         "watchlist": {
-          "n": 26,
+          "n": 24,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 277071,
+          "avg_other": 299200,
           "median_trend": null,
-          "median_other": 55796,
+          "median_other": 57172,
           "verdicts": {
             "trend": 0,
-            "visual": 6,
+            "visual": 5,
             "author/audience": 3,
-            "coincidence/other": 17
+            "coincidence/other": 16
           }
         },
         "outsiders": {
           "n": 19,
-          "trend_n": 6,
-          "trend_pct": 32,
-          "avg_trend": 106333,
-          "avg_other": 18111,
-          "median_trend": 57000,
-          "median_other": 3400,
+          "trend_n": 5,
+          "trend_pct": 26,
+          "avg_trend": 123000,
+          "avg_other": 18460,
+          "median_trend": 81000,
+          "median_other": 4650,
           "verdicts": {
-            "trend": 6,
+            "trend": 5,
             "visual": 6,
             "author/audience": 0,
-            "coincidence/other": 7
+            "coincidence/other": 8
           }
         },
         "top10": {
@@ -2081,8 +2039,8 @@
         "media": {
           "video_n": 5,
           "median_video": 20000,
-          "other_n": 40,
-          "median_other": 45338
+          "other_n": 38,
+          "median_other": 49641
         }
       }
     },
@@ -2167,10 +2125,10 @@
         "name": "Europe / AI tax",
         "keywords": [
           "Germany",
-          "France's",
-          "AI tax",
           "French",
-          "Europe"
+          "Europe",
+          "France's",
+          "AI tax"
         ],
         "posts_24h": 3,
         "posts_48h": 5,
@@ -2703,7 +2661,7 @@
         "handle": "@tdinh_me",
         "lane": "watchlist",
         "views": 18295,
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "visual",
         "matched_keywords": [
           "coding"
@@ -2735,34 +2693,6 @@
         "handle": "@tdinh_me",
         "lane": "watchlist",
         "views": 13114,
-        "trend_match": 0,
-        "verdict": "visual",
-        "matched_keywords": [],
-        "media": "image",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "followers: no data"
-      },
-      {
-        "id": "2116311605776449961",
-        "handle": "@levelsio",
-        "lane": "watchlist",
-        "views": 12218,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "text",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "followers: no data"
-      },
-      {
-        "id": "2116334347196277141",
-        "handle": "@emollick",
-        "lane": "watchlist",
-        "views": 10828,
         "trend_match": 0,
         "verdict": "visual",
         "matched_keywords": [],
@@ -2807,11 +2737,12 @@
         "handle": "@halvenruns",
         "lane": "outsider",
         "views": 300000,
-        "trend_match": 58,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "agents",
-          "Anthropic"
+          "Anthropic",
+          "Anthropic research"
         ],
         "media": "text",
         "followers": null,
@@ -2942,8 +2873,8 @@
         "handle": "@business",
         "lane": "outsider",
         "views": 23000,
-        "trend_match": 58,
-        "verdict": "trend",
+        "trend_match": 49,
+        "verdict": "coincidence/other",
         "matched_keywords": [
           "Claude Code",
           "coding"
