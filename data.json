@@ -130,9 +130,11 @@
       },
       "top10_rank": 3,
       "why_hit": {
-        "trend_match": 0,
+        "trend_match": 22,
         "verdict": "author/audience",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "ChatGPT"
+        ],
         "media": "text",
         "note": "followers: no data (estimate from reach >= 500K)",
         "topic": "Europe / AI tax"
@@ -153,7 +155,7 @@
       "self_quote": false,
       "hook": "Giant MEGA CHINA warehouse shops across Portugal and Spain.",
       "views_label": "187.5K",
-      "board_rank": 4,
+      "board_rank": 6,
       "draft_en": "There is a retail phenomenon in that corner of Europe, Portugal and Spain, that looks like nothing else: giant warehouses in the middle of nowhere, painted with huge red signs with names like MEGA CHINA, HIPER CHINA, MAXI CHINA and GRANDE CHINA. The shops are run by immigrants from one Chinese province, Zhejiang, and once you know to look, they are impossible to miss.",
       "draft_keywords": [
         "Europe"
@@ -164,7 +166,7 @@
         "word_overlap": 0.438,
         "max_copied_run": 6
       },
-      "top10_rank": 4,
+      "top10_rank": 6,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -189,10 +191,10 @@
       "self_quote": true,
       "hook": "Surprised reaction to a haircut result.",
       "views_label": "114.3K",
-      "board_rank": 5,
+      "board_rank": 7,
       "draft_en": "Someone learned a fade from a talking video course built by Claude Code, and the result was good enough to post about. That is the part worth noticing: an AI that does not just answer questions, but teaches a physical skill step by step, on video.",
       "draft_keywords": [
-        "Claude"
+        "Claude Code"
       ],
       "draft_check": {
         "rules": "v4",
@@ -200,7 +202,7 @@
         "word_overlap": 0.048,
         "max_copied_run": 1
       },
-      "top10_rank": 5,
+      "top10_rank": 7,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -225,7 +227,7 @@
       "self_quote": false,
       "hook": "First AI trained on Portuguese customer support.",
       "views_label": "110.3K",
-      "board_rank": 6,
+      "board_rank": 8,
       "draft_en": "The first AI trained on Portuguese customer support is a useful reminder: the most valuable agents are often the least glamorous ones, built for one language and one job, not for everything at once.",
       "draft_keywords": [
         "agents"
@@ -236,7 +238,7 @@
         "word_overlap": 0.267,
         "max_copied_run": 4
       },
-      "top10_rank": 6,
+      "top10_rank": 8,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -261,7 +263,7 @@
       "self_quote": false,
       "hook": "Prepping goes mainstream as governments issue stockpile guidance.",
       "views_label": "82.7K",
-      "board_rank": 7,
+      "board_rank": 9,
       "draft_en": "Prepping went mainstream for a reason that has nothing to do with lifestyle content: AI-assisted attacks on infrastructure made the risk feel real, and now governments from the US to Europe recommend keeping water and food on hand: 3 days in the US and much of Europe, 7 in Norway, Sweden and Estonia, 10 in Germany. Batteries and solar help too, if you can get them.",
       "draft_keywords": [
         "Europe",
@@ -273,7 +275,7 @@
         "word_overlap": 0.385,
         "max_copied_run": 3
       },
-      "top10_rank": 7,
+      "top10_rank": 9,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -298,18 +300,7 @@
       "self_quote": true,
       "hook": "Site updated for French audiences.",
       "views_label": "80.0K",
-      "board_rank": 8,
-      "draft_en": "The site just got an update for French audiences, right after the France tax post took off. Small change, clear signal: meet a new audience where it already is.",
-      "draft_keywords": [
-        "French"
-      ],
-      "draft_check": {
-        "rules": "v4",
-        "g4_overlap": 0.0,
-        "word_overlap": 0.2,
-        "max_copied_run": 3
-      },
-      "top10_rank": 8,
+      "board_rank": 11,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -334,18 +325,7 @@
       "self_quote": true,
       "hook": "Spanish high-speed train death odds worked out at 1 in 300,000.",
       "views_label": "79.3K",
-      "board_rank": 9,
-      "draft_en": "Some people did not believe the Spain train numbers, so here is the arithmetic: about 115 deaths across about 35 million high-speed trips this year, which works out near 1 in 300,000 per trip. Argue about cherry-picking the year if you want; the year is the point, and it is why rail numbers in Europe get argued over.",
-      "draft_keywords": [
-        "Europe"
-      ],
-      "draft_check": {
-        "rules": "v4",
-        "g4_overlap": 0.054,
-        "word_overlap": 0.417,
-        "max_copied_run": 6
-      },
-      "top10_rank": 9,
+      "board_rank": 12,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -370,20 +350,7 @@
       "self_quote": false,
       "hook": "Italy proposing an exit tax after France and Germany taxes.",
       "views_label": "63.3K",
-      "board_rank": 10,
-      "draft_en": "An exit tax is now on the table in Italy. France already passed its gigabyte tax, and Germany has AI tax plans on the table. The throughline is the same: Europe is running low on money, and the hunt for new revenue is moving fast.",
-      "draft_keywords": [
-        "Europe",
-        "AI tax",
-        "Germany"
-      ],
-      "draft_check": {
-        "rules": "v4",
-        "g4_overlap": 0.0,
-        "word_overlap": 0.316,
-        "max_copied_run": 3
-      },
-      "top10_rank": 10,
+      "board_rank": 14,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -408,7 +375,7 @@
       "self_quote": false,
       "hook": "One-word reaction post.",
       "views_label": "59.7K",
-      "board_rank": 11,
+      "board_rank": 15,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -433,7 +400,7 @@
       "self_quote": false,
       "hook": "Welfare spending versus economic growth argument.",
       "views_label": "57.9K",
-      "board_rank": 12,
+      "board_rank": 16,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -458,11 +425,13 @@
       "self_quote": false,
       "hook": "OpenAI products lasting only months before obsolescence.",
       "views_label": "56.4K",
-      "board_rank": 13,
+      "board_rank": 17,
       "why_hit": {
-        "trend_match": 0,
+        "trend_match": 35,
         "verdict": "coincidence/other",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "OpenAI"
+        ],
         "media": "text",
         "note": "followers: no data",
         "topic": null
@@ -483,7 +452,7 @@
       "self_quote": false,
       "hook": "Dot advice and personal-agent UX critique.",
       "views_label": "55.1K",
-      "board_rank": 14,
+      "board_rank": 18,
       "why_hit": {
         "trend_match": 35,
         "verdict": "coincidence/other",
@@ -510,7 +479,7 @@
       "self_quote": false,
       "hook": "Hashtag post supporting Poland.",
       "views_label": "51.6K",
-      "board_rank": 15,
+      "board_rank": 19,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -535,12 +504,12 @@
       "self_quote": false,
       "hook": "Claude Code taught the author a fade haircut via video course.",
       "views_label": "48.3K",
-      "board_rank": 16,
+      "board_rank": 21,
       "why_hit": {
         "trend_match": 35,
         "verdict": "coincidence/other",
         "matched_keywords": [
-          "Claude"
+          "Claude Code"
         ],
         "media": "text",
         "note": "followers: no data",
@@ -562,7 +531,7 @@
       "self_quote": false,
       "hook": "Amused reaction to new French things.",
       "views_label": "42.4K",
-      "board_rank": 17,
+      "board_rank": 22,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -587,7 +556,7 @@
       "self_quote": false,
       "hook": "AI unlocking cheaper legacy migration projects.",
       "views_label": "31.9K",
-      "board_rank": 18,
+      "board_rank": 26,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -612,17 +581,17 @@
       "self_quote": false,
       "hook": "Ghost census Halloween project from Opus 5.5.",
       "views_label": "20.4K",
-      "board_rank": 19,
+      "board_rank": 28,
       "why_hit": {
-        "trend_match": 58,
-        "verdict": "trend",
+        "trend_match": 49,
+        "verdict": "coincidence/other",
         "matched_keywords": [
           "Opus 5.5",
           "Halloween"
         ],
         "media": "text",
         "note": "followers: no data",
-        "topic": "agents / Halloween"
+        "topic": "Claude / Opus 5.5"
       }
     },
     {
@@ -640,11 +609,13 @@
       "self_quote": false,
       "hook": "Building your own harness is a point of no return.",
       "views_label": "18.3K",
-      "board_rank": 20,
+      "board_rank": 30,
       "why_hit": {
-        "trend_match": 0,
+        "trend_match": 35,
         "verdict": "visual",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "coding"
+        ],
         "media": "image",
         "note": "followers: no data",
         "topic": null
@@ -665,7 +636,7 @@
       "self_quote": false,
       "hook": "Eye-rolling reaction naming Opus 5.5.",
       "views_label": "14.1K",
-      "board_rank": 21,
+      "board_rank": 31,
       "why_hit": {
         "trend_match": 35,
         "verdict": "visual",
@@ -692,7 +663,7 @@
       "self_quote": false,
       "hook": "Two-agent design-system method for vibe-coded dashboards.",
       "views_label": "13.1K",
-      "board_rank": 22,
+      "board_rank": 32,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -717,7 +688,7 @@
       "self_quote": false,
       "hook": "Link to nomads.com txt page.",
       "views_label": "12.2K",
-      "board_rank": 23,
+      "board_rank": 33,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -742,7 +713,7 @@
       "self_quote": false,
       "hook": "Proprietary models differ markedly from each other.",
       "views_label": "10.8K",
-      "board_rank": 24,
+      "board_rank": 35,
       "why_hit": {
         "trend_match": 0,
         "verdict": "visual",
@@ -767,7 +738,7 @@
       "self_quote": false,
       "hook": "Personalized software beats choosing among offerings.",
       "views_label": "7.0K",
-      "board_rank": 25,
+      "board_rank": 36,
       "why_hit": {
         "trend_match": 0,
         "verdict": "coincidence/other",
@@ -792,9 +763,9 @@
       "self_quote": false,
       "hook": "Halloween idea to try next year.",
       "views_label": "6.5K",
-      "board_rank": 26,
+      "board_rank": 37,
       "why_hit": {
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "coincidence/other",
         "matched_keywords": [
           "Halloween"
@@ -858,8 +829,370 @@
     "name": "Techy Bee",
     "profile_url": "https://x.com/TechyBee7e"
   },
-  "outsiders": [],
-  "outsiders_count": 0,
+  "outsiders": [
+    {
+      "handle": "@halvenruns",
+      "name": "Halven",
+      "display_name": "Halven",
+      "views": 300000,
+      "url": "https://x.com/halvenruns/status/2116255352438329556",
+      "status_url": "https://x.com/halvenruns/status/2116255352438329556",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Claim that prompting is basically over, with engineers running swarms of 300-plus self-improving agents and shifting to graphs.",
+      "full_text": "Claim that prompting is basically over, with engineers running swarms of 300-plus self-improving agents and shifting to graphs.",
+      "original_en": "Claim that prompting is basically over, with engineers running swarms of 300-plus self-improving agents and shifting to graphs.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Prompting is over: swarms of 300-plus self-improving agents.",
+      "views_label": "300.0K",
+      "board_rank": 4,
+      "draft_en": "An Anthropic research lead says prompting is basically over. His version: 99% of engineers already run self-improving agents in swarms of 300-plus, and everyone is shifting to graphs. If that is even half true, the skill that matters is no longer writing the perfect prompt, it is steering the swarm.",
+      "draft_keywords": [
+        "agents",
+        "Anthropic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.149,
+        "word_overlap": 0.538,
+        "max_copied_run": 6
+      },
+      "top10_rank": 4
+    },
+    {
+      "handle": "@AnatoliKopadze",
+      "name": "Anatoli Kopadze",
+      "display_name": "Anatoli Kopadze",
+      "views": 190000,
+      "url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+      "status_url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen.",
+      "full_text": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen.",
+      "original_en": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Best 90-minute course on building AI agents from scratch.",
+      "views_label": "190.0K",
+      "board_rank": 5,
+      "draft_en": "Anthropic engineers just put out a 90-minute class that builds AI agents from the ground up, and one viewer calls it the best they have ever seen. If you want the full picture in one sitting, learning from the people shipping the systems is a good place to start.",
+      "draft_keywords": [
+        "agents",
+        "AI agents",
+        "Anthropic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.227,
+        "max_copied_run": 3
+      },
+      "top10_rank": 5
+    },
+    {
+      "handle": "@nikhilx22",
+      "name": "Nikhil",
+      "display_name": "Nikhil",
+      "views": 81000,
+      "url": "https://x.com/nikhilx22/status/2116553282063577565",
+      "status_url": "https://x.com/nikhilx22/status/2116553282063577565",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Question comparing Anthropic's Claude Code, OpenAI's Codex, and what xAI has.",
+      "full_text": "Question comparing Anthropic's Claude Code, OpenAI's Codex, and what xAI has.",
+      "original_en": "Question comparing Anthropic's Claude Code, OpenAI's Codex, and what xAI has.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Anthropic has Claude Code, OpenAI has Codex, xAI has what?",
+      "views_label": "81.0K",
+      "board_rank": 10,
+      "draft_en": "Anthropic has Claude Code. OpenAI has Codex. So what does xAI have? The question works because it is really about ecosystems: the coding tool is becoming the moat, and everyone is waiting to see xAI's answer.",
+      "draft_keywords": [
+        "Claude Code",
+        "Codex",
+        "Anthropic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.294,
+        "max_copied_run": 2
+      },
+      "top10_rank": 10
+    },
+    {
+      "handle": "@binghott",
+      "name": "Barry Hott",
+      "display_name": "Barry Hott",
+      "views": 71000,
+      "url": "https://x.com/binghott/status/2116154952405950468",
+      "status_url": "https://x.com/binghott/status/2116154952405950468",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Favorite Claude Code function: opening a new session to search for the right context.",
+      "full_text": "Favorite Claude Code function: opening a new session to search for the right context.",
+      "original_en": "Favorite Claude Code function: opening a new session to search for the right context.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Favorite Claude Code function: a new session to find context.",
+      "views_label": "71.0K",
+      "board_rank": 13
+    },
+    {
+      "handle": "@rosenacry",
+      "name": "rose",
+      "display_name": "rose",
+      "views": 51000,
+      "url": "https://x.com/rosenacry/status/2116525612097585341",
+      "status_url": "https://x.com/rosenacry/status/2116525612097585341",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla.",
+      "full_text": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla.",
+      "original_en": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Karpathy's eight years at OpenAI and Tesla.",
+      "views_label": "51.0K",
+      "board_rank": 20
+    },
+    {
+      "handle": "@HeyAbhishek",
+      "name": "Abhishek",
+      "display_name": "Abhishek",
+      "views": 40000,
+      "url": "https://x.com/HeyAbhishek/status/2116142351186088301",
+      "status_url": "https://x.com/HeyAbhishek/status/2116142351186088301",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "AI anime short film storyboard made with ChatGPT.",
+      "full_text": "AI anime short film storyboard made with ChatGPT.",
+      "original_en": "AI anime short film storyboard made with ChatGPT.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "Anime short film storyboard made with ChatGPT.",
+      "views_label": "40.0K",
+      "board_rank": 23
+    },
+    {
+      "handle": "@Pauline_Cx",
+      "name": "Pauline Cx",
+      "display_name": "Pauline Cx",
+      "views": 39000,
+      "url": "https://x.com/Pauline_Cx/status/2116574922466091517",
+      "status_url": "https://x.com/Pauline_Cx/status/2116574922466091517",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Complaint that Claude Code needs an IDE for some edits, asking about a roadmap for IDE support.",
+      "full_text": "Complaint that Claude Code needs an IDE for some edits, asking about a roadmap for IDE support.",
+      "original_en": "Complaint that Claude Code needs an IDE for some edits, asking about a roadmap for IDE support.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Claude Code needs an IDE for some edits.",
+      "views_label": "39.0K",
+      "board_rank": 24
+    },
+    {
+      "handle": "@v3lkera",
+      "name": "v3lkera",
+      "display_name": "v3lkera",
+      "views": 33000,
+      "url": "https://x.com/v3lkera/status/2116177385527624042",
+      "status_url": "https://x.com/v3lkera/status/2116177385527624042",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reaction to a Google engineer's claim that most Google PRs are already shipped by AI agents.",
+      "full_text": "Reaction to a Google engineer's claim that most Google PRs are already shipped by AI agents.",
+      "original_en": "Reaction to a Google engineer's claim that most Google PRs are already shipped by AI agents.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Most Google PRs already shipped by AI agents.",
+      "views_label": "33.0K",
+      "board_rank": 25
+    },
+    {
+      "handle": "@business",
+      "name": "Bloomberg",
+      "display_name": "Bloomberg",
+      "views": 23000,
+      "url": "https://x.com/business/status/2116754642222616835",
+      "status_url": "https://x.com/business/status/2116754642222616835",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code.",
+      "full_text": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code.",
+      "original_en": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code.",
+      "media": "link card",
+      "self_quote": false,
+      "hook": "DeepSeek autonomous coding agent challenges Claude Code.",
+      "views_label": "23.0K",
+      "board_rank": 27
+    },
+    {
+      "handle": "@AlltheLatestAI",
+      "name": "The AGI Countdown",
+      "display_name": "The AGI Countdown",
+      "views": 20000,
+      "url": "https://x.com/AlltheLatestAI/status/2116462758908850285",
+      "status_url": "https://x.com/AlltheLatestAI/status/2116462758908850285",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Dario Amodei on the countdown to AI writing all code, now measured in months.",
+      "full_text": "Dario Amodei on the countdown to AI writing all code, now measured in months.",
+      "original_en": "Dario Amodei on the countdown to AI writing all code, now measured in months.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "Countdown to AI writing all code, measured in months.",
+      "views_label": "20.0K",
+      "board_rank": 29
+    },
+    {
+      "handle": "@kyr0stack",
+      "name": "Kyrox",
+      "display_name": "Kyrox",
+      "views": 11000,
+      "url": "https://x.com/kyr0stack/status/2116537350519947551",
+      "status_url": "https://x.com/kyr0stack/status/2116537350519947551",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Claim that most Anthropic engineers use self-improving harnesses with Opus 5.5 for agentic systems.",
+      "full_text": "Claim that most Anthropic engineers use self-improving harnesses with Opus 5.5 for agentic systems.",
+      "original_en": "Claim that most Anthropic engineers use self-improving harnesses with Opus 5.5 for agentic systems.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Most Anthropic engineers on self-improving harnesses.",
+      "views_label": "11.0K",
+      "board_rank": 34
+    },
+    {
+      "handle": "@engadget",
+      "name": "Engadget",
+      "display_name": "Engadget",
+      "views": 5900,
+      "url": "https://x.com/engadget/status/2116720741508952191",
+      "status_url": "https://x.com/engadget/status/2116720741508952191",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Privacy explainer: major AI tools collect conversations, with opt-out instructions.",
+      "full_text": "Privacy explainer: major AI tools collect conversations, with opt-out instructions.",
+      "original_en": "Privacy explainer: major AI tools collect conversations, with opt-out instructions.",
+      "media": "image",
+      "self_quote": false,
+      "hook": "AI tools collect conversations; how to opt out.",
+      "views_label": "5.9K",
+      "board_rank": 38
+    },
+    {
+      "handle": "@databricks",
+      "name": "Databricks",
+      "display_name": "Databricks",
+      "views": 3400,
+      "url": "https://x.com/databricks/status/2116554322372591866",
+      "status_url": "https://x.com/databricks/status/2116554322372591866",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Demo post about AI agents querying data and understanding its meaning via Genie Ontology.",
+      "full_text": "Demo post about AI agents querying data and understanding its meaning via Genie Ontology.",
+      "original_en": "Demo post about AI agents querying data and understanding its meaning via Genie Ontology.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "AI agents querying data with understanding.",
+      "views_label": "3.4K",
+      "board_rank": 39
+    },
+    {
+      "handle": "@Sabrina7772",
+      "name": "Sabrina",
+      "display_name": "Sabrina",
+      "views": 1900,
+      "url": "https://x.com/Sabrina7772/status/2116615024806445128",
+      "status_url": "https://x.com/Sabrina7772/status/2116615024806445128",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Video editing tools roundup: more than 45 tools sorted by face-redrawing behavior.",
+      "full_text": "Video editing tools roundup: more than 45 tools sorted by face-redrawing behavior.",
+      "original_en": "Video editing tools roundup: more than 45 tools sorted by face-redrawing behavior.",
+      "media": "link card",
+      "self_quote": false,
+      "hook": "45-plus video tools sorted by face redrawing.",
+      "views_label": "1.9K",
+      "board_rank": 40
+    },
+    {
+      "handle": "@Dipanshu_AI",
+      "name": "Dipanshu Kushwaha",
+      "display_name": "Dipanshu Kushwaha",
+      "views": 1200,
+      "url": "https://x.com/Dipanshu_AI/status/2116751108681167288",
+      "status_url": "https://x.com/Dipanshu_AI/status/2116751108681167288",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Video on Anthropic engineering's shift from writing prompts to building loops.",
+      "full_text": "Video on Anthropic engineering's shift from writing prompts to building loops.",
+      "original_en": "Video on Anthropic engineering's shift from writing prompts to building loops.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "Anthropic engineering: from prompts to loops.",
+      "views_label": "1.2K",
+      "board_rank": 41
+    },
+    {
+      "handle": "@ArdenBuilds",
+      "name": "Arden Builds",
+      "display_name": "Arden Builds",
+      "views": 768,
+      "url": "https://x.com/ArdenBuilds/status/2116409961148281063",
+      "status_url": "https://x.com/ArdenBuilds/status/2116409961148281063",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo founders.",
+      "full_text": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo founders.",
+      "original_en": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo founders.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Looking for people building with AI agents.",
+      "views_label": "768",
+      "board_rank": 42
+    },
+    {
+      "handle": "@0xkichiro",
+      "name": "kichiro",
+      "display_name": "kichiro",
+      "views": 730,
+      "url": "https://x.com/0xkichiro/status/2116528039009902619",
+      "status_url": "https://x.com/0xkichiro/status/2116528039009902619",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reaction post quoting Anthropic CEO Dario Amodei on leaving OpenAI to build Claude.",
+      "full_text": "Reaction post quoting Anthropic CEO Dario Amodei on leaving OpenAI to build Claude.",
+      "original_en": "Reaction post quoting Anthropic CEO Dario Amodei on leaving OpenAI to build Claude.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Amodei on leaving OpenAI to build Claude.",
+      "views_label": "730",
+      "board_rank": 43
+    },
+    {
+      "handle": "@AMADuMetax",
+      "name": "AMADU",
+      "display_name": "AMADU",
+      "views": 342,
+      "url": "https://x.com/AMADuMetax/status/2116757643045790018",
+      "status_url": "https://x.com/AMADuMetax/status/2116757643045790018",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reflection on the human side of training an AI agent, with coaching decisions changing over time.",
+      "full_text": "Reflection on the human side of training an AI agent, with coaching decisions changing over time.",
+      "original_en": "Reflection on the human side of training an AI agent, with coaching decisions changing over time.",
+      "media": "image",
+      "self_quote": false,
+      "hook": "Human side of training an AI agent.",
+      "views_label": "342",
+      "board_rank": 44
+    },
+    {
+      "handle": "@tanu_hehe",
+      "name": "Tanu",
+      "display_name": "Tanu",
+      "views": 199,
+      "url": "https://x.com/tanu_hehe/status/2116767645551014109",
+      "status_url": "https://x.com/tanu_hehe/status/2116767645551014109",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Networking post seeking people into AI/ML, full stack, DevOps, AI agents, vibe coding and SaaS building.",
+      "full_text": "Networking post seeking people into AI/ML, full stack, DevOps, AI agents, vibe coding and SaaS building.",
+      "original_en": "Networking post seeking people into AI/ML, full stack, DevOps, AI agents, vibe coding and SaaS building.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Looking to connect over AI, DevOps and SaaS building.",
+      "views_label": "199",
+      "board_rank": 45
+    }
+  ],
+  "outsiders_count": 19,
   "patterns": [],
   "previous_day": "2026-10-30",
   "timezone": "Asia/Karachi",
@@ -886,7 +1219,551 @@
     "default_theme": "night"
   },
   "updated": "2026-11-01T12:25:00+05:00",
-  "virals": [],
+  "virals": [
+    {
+      "handle": "@halvenruns",
+      "name": "Halven",
+      "display_name": "Halven",
+      "views": 300000,
+      "url": "https://x.com/halvenruns/status/2116255352438329556",
+      "status_url": "https://x.com/halvenruns/status/2116255352438329556",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Claim by an Anthropic research lead that prompting is basically over: 99% of engineers already run swarms of 300-plus self-improving agents, and everyone is shifting to graphs.",
+      "full_text": "Claim by an Anthropic research lead that prompting is basically over: 99% of engineers already run swarms of 300-plus self-improving agents, and everyone is shifting to graphs.",
+      "original_en": "Claim by an Anthropic research lead that prompting is basically over: 99% of engineers already run swarms of 300-plus self-improving agents, and everyone is shifting to graphs.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Prompting is over: swarms of 300-plus self-improving agents.",
+      "views_label": "300.0K",
+      "board_rank": 4,
+      "draft_en": "An Anthropic research lead says prompting is basically over. His version: 99% of engineers already run self-improving agents in swarms of 300-plus, and everyone is shifting to graphs. If that is even half true, the skill that matters is no longer writing the perfect prompt, it is steering the swarm.",
+      "draft_keywords": [
+        "agents",
+        "Anthropic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.149,
+        "word_overlap": 0.538,
+        "max_copied_run": 6
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Anthropic"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "agents / Halloween"
+      }
+    },
+    {
+      "handle": "@AnatoliKopadze",
+      "name": "Anatoli Kopadze",
+      "display_name": "Anatoli Kopadze",
+      "views": 190000,
+      "url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+      "status_url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen.",
+      "full_text": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen.",
+      "original_en": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Best 90-minute course on building AI agents from scratch.",
+      "views_label": "190.0K",
+      "board_rank": 5,
+      "draft_en": "Anthropic engineers just put out a 90-minute class that builds AI agents from the ground up, and one viewer calls it the best they have ever seen. If you want the full picture in one sitting, learning from the people shipping the systems is a good place to start.",
+      "draft_keywords": [
+        "agents",
+        "AI agents",
+        "Anthropic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.227,
+        "max_copied_run": 3
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "AI agents",
+          "Anthropic",
+          "Anthropic engineers"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "agents / Halloween"
+      }
+    },
+    {
+      "handle": "@nikhilx22",
+      "name": "Nikhil",
+      "display_name": "Nikhil",
+      "views": 81000,
+      "url": "https://x.com/nikhilx22/status/2116553282063577565",
+      "status_url": "https://x.com/nikhilx22/status/2116553282063577565",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Question comparing Anthropic's Claude Code, OpenAI's Codex, and what xAI has.",
+      "full_text": "Question comparing Anthropic's Claude Code, OpenAI's Codex, and what xAI has.",
+      "original_en": "Question comparing Anthropic's Claude Code, OpenAI's Codex, and what xAI has.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Anthropic has Claude Code, OpenAI has Codex, xAI has what?",
+      "views_label": "81.0K",
+      "board_rank": 10,
+      "draft_en": "Anthropic has Claude Code. OpenAI has Codex. So what does xAI have? The question works because it is really about ecosystems: the coding tool is becoming the moat, and everyone is waiting to see xAI's answer.",
+      "draft_keywords": [
+        "Claude Code",
+        "Codex",
+        "Anthropic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.294,
+        "max_copied_run": 2
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude Code",
+          "Anthropic",
+          "OpenAI"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@binghott",
+      "name": "Barry Hott",
+      "display_name": "Barry Hott",
+      "views": 71000,
+      "url": "https://x.com/binghott/status/2116154952405950468",
+      "status_url": "https://x.com/binghott/status/2116154952405950468",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Favorite Claude Code function: opening a new session to search for the right context.",
+      "full_text": "Favorite Claude Code function: opening a new session to search for the right context.",
+      "original_en": "Favorite Claude Code function: opening a new session to search for the right context.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Favorite Claude Code function: a new session to find context.",
+      "views_label": "71.0K",
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude Code"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@rosenacry",
+      "name": "rose",
+      "display_name": "rose",
+      "views": 51000,
+      "url": "https://x.com/rosenacry/status/2116525612097585341",
+      "status_url": "https://x.com/rosenacry/status/2116525612097585341",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla.",
+      "full_text": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla.",
+      "original_en": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Karpathy's eight years at OpenAI and Tesla.",
+      "views_label": "51.0K",
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@HeyAbhishek",
+      "name": "Abhishek",
+      "display_name": "Abhishek",
+      "views": 40000,
+      "url": "https://x.com/HeyAbhishek/status/2116142351186088301",
+      "status_url": "https://x.com/HeyAbhishek/status/2116142351186088301",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "AI anime short film storyboard made with ChatGPT.",
+      "full_text": "AI anime short film storyboard made with ChatGPT.",
+      "original_en": "AI anime short film storyboard made with ChatGPT.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "Anime short film storyboard made with ChatGPT.",
+      "views_label": "40.0K",
+      "board_rank": 23,
+      "why_hit": {
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ChatGPT"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@Pauline_Cx",
+      "name": "Pauline Cx",
+      "display_name": "Pauline Cx",
+      "views": 39000,
+      "url": "https://x.com/Pauline_Cx/status/2116574922466091517",
+      "status_url": "https://x.com/Pauline_Cx/status/2116574922466091517",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Complaint that Claude Code needs an IDE for some edits, asking about a roadmap for IDE support.",
+      "full_text": "Complaint that Claude Code needs an IDE for some edits, asking about a roadmap for IDE support.",
+      "original_en": "Complaint that Claude Code needs an IDE for some edits, asking about a roadmap for IDE support.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Claude Code needs an IDE for some edits.",
+      "views_label": "39.0K",
+      "board_rank": 24,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude Code"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@v3lkera",
+      "name": "v3lkera",
+      "display_name": "v3lkera",
+      "views": 33000,
+      "url": "https://x.com/v3lkera/status/2116177385527624042",
+      "status_url": "https://x.com/v3lkera/status/2116177385527624042",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reaction to a Google engineer's claim that most Google PRs are already shipped by AI agents.",
+      "full_text": "Reaction to a Google engineer's claim that most Google PRs are already shipped by AI agents.",
+      "original_en": "Reaction to a Google engineer's claim that most Google PRs are already shipped by AI agents.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Most Google PRs already shipped by AI agents.",
+      "views_label": "33.0K",
+      "board_rank": 25,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "AI agents"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "agents / Halloween"
+      }
+    },
+    {
+      "handle": "@business",
+      "name": "Bloomberg",
+      "display_name": "Bloomberg",
+      "views": 23000,
+      "url": "https://x.com/business/status/2116754642222616835",
+      "status_url": "https://x.com/business/status/2116754642222616835",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code.",
+      "full_text": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code.",
+      "original_en": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code.",
+      "media": "link card",
+      "self_quote": false,
+      "hook": "DeepSeek autonomous coding agent challenges Claude Code.",
+      "views_label": "23.0K",
+      "board_rank": 27,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude Code",
+          "coding"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@AlltheLatestAI",
+      "name": "The AGI Countdown",
+      "display_name": "The AGI Countdown",
+      "views": 20000,
+      "url": "https://x.com/AlltheLatestAI/status/2116462758908850285",
+      "status_url": "https://x.com/AlltheLatestAI/status/2116462758908850285",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Dario Amodei on the countdown to AI writing all code, now measured in months.",
+      "full_text": "Dario Amodei on the countdown to AI writing all code, now measured in months.",
+      "original_en": "Dario Amodei on the countdown to AI writing all code, now measured in months.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "Countdown to AI writing all code, measured in months.",
+      "views_label": "20.0K",
+      "board_rank": 29,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@kyr0stack",
+      "name": "Kyrox",
+      "display_name": "Kyrox",
+      "views": 11000,
+      "url": "https://x.com/kyr0stack/status/2116537350519947551",
+      "status_url": "https://x.com/kyr0stack/status/2116537350519947551",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Claim that most Anthropic engineers use self-improving harnesses with Opus 5.5 for agentic systems.",
+      "full_text": "Claim that most Anthropic engineers use self-improving harnesses with Opus 5.5 for agentic systems.",
+      "original_en": "Claim that most Anthropic engineers use self-improving harnesses with Opus 5.5 for agentic systems.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Most Anthropic engineers on self-improving harnesses.",
+      "views_label": "11.0K",
+      "board_rank": 34,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "Opus 5.5",
+          "Anthropic engineers"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@engadget",
+      "name": "Engadget",
+      "display_name": "Engadget",
+      "views": 5900,
+      "url": "https://x.com/engadget/status/2116720741508952191",
+      "status_url": "https://x.com/engadget/status/2116720741508952191",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Privacy explainer: major AI tools collect conversations, with opt-out instructions.",
+      "full_text": "Privacy explainer: major AI tools collect conversations, with opt-out instructions.",
+      "original_en": "Privacy explainer: major AI tools collect conversations, with opt-out instructions.",
+      "media": "image",
+      "self_quote": false,
+      "hook": "AI tools collect conversations; how to opt out.",
+      "views_label": "5.9K",
+      "board_rank": 38,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@databricks",
+      "name": "Databricks",
+      "display_name": "Databricks",
+      "views": 3400,
+      "url": "https://x.com/databricks/status/2116554322372591866",
+      "status_url": "https://x.com/databricks/status/2116554322372591866",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Demo post about AI agents querying data and understanding its meaning via Genie Ontology.",
+      "full_text": "Demo post about AI agents querying data and understanding its meaning via Genie Ontology.",
+      "original_en": "Demo post about AI agents querying data and understanding its meaning via Genie Ontology.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "AI agents querying data with understanding.",
+      "views_label": "3.4K",
+      "board_rank": 39,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "agents / Halloween"
+      }
+    },
+    {
+      "handle": "@Sabrina7772",
+      "name": "Sabrina",
+      "display_name": "Sabrina",
+      "views": 1900,
+      "url": "https://x.com/Sabrina7772/status/2116615024806445128",
+      "status_url": "https://x.com/Sabrina7772/status/2116615024806445128",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Video editing tools roundup: more than 45 tools sorted by face-redrawing behavior.",
+      "full_text": "Video editing tools roundup: more than 45 tools sorted by face-redrawing behavior.",
+      "original_en": "Video editing tools roundup: more than 45 tools sorted by face-redrawing behavior.",
+      "media": "link card",
+      "self_quote": false,
+      "hook": "45-plus video tools sorted by face redrawing.",
+      "views_label": "1.9K",
+      "board_rank": 40,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@Dipanshu_AI",
+      "name": "Dipanshu Kushwaha",
+      "display_name": "Dipanshu Kushwaha",
+      "views": 1200,
+      "url": "https://x.com/Dipanshu_AI/status/2116751108681167288",
+      "status_url": "https://x.com/Dipanshu_AI/status/2116751108681167288",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Video on Anthropic engineering's shift from writing prompts to building loops.",
+      "full_text": "Video on Anthropic engineering's shift from writing prompts to building loops.",
+      "original_en": "Video on Anthropic engineering's shift from writing prompts to building loops.",
+      "media": "video",
+      "self_quote": false,
+      "hook": "Anthropic engineering: from prompts to loops.",
+      "views_label": "1.2K",
+      "board_rank": 41,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@ArdenBuilds",
+      "name": "Arden Builds",
+      "display_name": "Arden Builds",
+      "views": 768,
+      "url": "https://x.com/ArdenBuilds/status/2116409961148281063",
+      "status_url": "https://x.com/ArdenBuilds/status/2116409961148281063",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo founders.",
+      "full_text": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo founders.",
+      "original_en": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo founders.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Looking for people building with AI agents.",
+      "views_label": "768",
+      "board_rank": 42,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@0xkichiro",
+      "name": "kichiro",
+      "display_name": "kichiro",
+      "views": 730,
+      "url": "https://x.com/0xkichiro/status/2116528039009902619",
+      "status_url": "https://x.com/0xkichiro/status/2116528039009902619",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reaction post quoting Anthropic CEO Dario Amodei on leaving OpenAI to build Claude.",
+      "full_text": "Reaction post quoting Anthropic CEO Dario Amodei on leaving OpenAI to build Claude.",
+      "original_en": "Reaction post quoting Anthropic CEO Dario Amodei on leaving OpenAI to build Claude.",
+      "media": "quoted post",
+      "self_quote": false,
+      "hook": "Amodei on leaving OpenAI to build Claude.",
+      "views_label": "730",
+      "board_rank": 43,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Claude / Opus 5.5"
+      }
+    },
+    {
+      "handle": "@AMADuMetax",
+      "name": "AMADU",
+      "display_name": "AMADU",
+      "views": 342,
+      "url": "https://x.com/AMADuMetax/status/2116757643045790018",
+      "status_url": "https://x.com/AMADuMetax/status/2116757643045790018",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Reflection on the human side of training an AI agent, with coaching decisions changing over time.",
+      "full_text": "Reflection on the human side of training an AI agent, with coaching decisions changing over time.",
+      "original_en": "Reflection on the human side of training an AI agent, with coaching decisions changing over time.",
+      "media": "image",
+      "self_quote": false,
+      "hook": "Human side of training an AI agent.",
+      "views_label": "342",
+      "board_rank": 44,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "handle": "@tanu_hehe",
+      "name": "Tanu",
+      "display_name": "Tanu",
+      "views": 199,
+      "url": "https://x.com/tanu_hehe/status/2116767645551014109",
+      "status_url": "https://x.com/tanu_hehe/status/2116767645551014109",
+      "posted_at": "2026-10-31T12:00:00Z",
+      "text": "Networking post seeking people into AI/ML, full stack, DevOps, AI agents, vibe coding and SaaS building.",
+      "full_text": "Networking post seeking people into AI/ML, full stack, DevOps, AI agents, vibe coding and SaaS building.",
+      "original_en": "Networking post seeking people into AI/ML, full stack, DevOps, AI agents, vibe coding and SaaS building.",
+      "media": "text",
+      "self_quote": false,
+      "hook": "Looking to connect over AI, DevOps and SaaS building.",
+      "views_label": "199",
+      "board_rank": 45,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "agents / Halloween"
+      }
+    }
+  ],
   "virals_narrative": "",
   "virals_target": 20,
   "virals_window": "last ~48h",
@@ -923,52 +1800,52 @@
     },
     {
       "rank": 4,
+      "id": "2116255352438329556",
+      "handle": "@halvenruns",
+      "views": 300000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2116191759231246768",
+      "handle": "@AnatoliKopadze",
+      "views": 190000,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
       "id": "2116271072106389622",
       "handle": "@levelsio",
       "views": 187539,
       "lane": "watchlist"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "2116286343425008120",
       "handle": "@levelsio",
       "views": 114300,
       "lane": "watchlist"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "id": "2116537274900815916",
       "handle": "@levelsio",
       "views": 110317,
       "lane": "watchlist"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "id": "2116244669633868103",
       "handle": "@levelsio",
       "views": 82735,
       "lane": "watchlist"
     },
     {
-      "rank": 8,
-      "id": "2116310269525901776",
-      "handle": "@levelsio",
-      "views": 79960,
-      "lane": "watchlist"
-    },
-    {
-      "rank": 9,
-      "id": "2116281504238043186",
-      "handle": "@levelsio",
-      "views": 79348,
-      "lane": "watchlist"
-    },
-    {
       "rank": 10,
-      "id": "2116604593282965549",
-      "handle": "@levelsio",
-      "views": 63296,
-      "lane": "watchlist"
+      "id": "2116553282063577565",
+      "handle": "@nikhilx22",
+      "views": 81000,
+      "lane": "outsider"
     }
   ],
   "trend_keywords": {
@@ -979,65 +1856,142 @@
       {
         "keyword": "agents",
         "rank": 1,
-        "score": 32.8,
-        "posts": 4,
-        "authors": 3
+        "score": 231.6,
+        "posts": 12,
+        "authors": 11
+      },
+      {
+        "keyword": "Claude Code",
+        "rank": 2,
+        "score": 118.0,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "AI agents",
+        "rank": 3,
+        "score": 99.8,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "Anthropic",
+        "rank": 4,
+        "score": 63.3,
+        "posts": 5,
+        "authors": 5
       },
       {
         "keyword": "Opus 5.5",
-        "rank": 2,
-        "score": 18.6,
+        "rank": 5,
+        "score": 34.5,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "OpenAI",
+        "rank": 6,
+        "score": 26.5,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Video",
+        "rank": 7,
+        "score": 23.5,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "0.055 euros",
+        "rank": 8,
+        "score": 20.5,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Anthropic engineers",
+        "rank": 9,
+        "score": 20.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "coding",
+        "rank": 10,
+        "score": 19.8,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "ChatGPT",
+        "rank": 11,
+        "score": 18.3,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "AI tax",
-        "rank": 3,
+        "rank": 12,
         "score": 18.0,
         "posts": 2,
         "authors": 1
       },
       {
-        "keyword": "Claude",
-        "rank": 4,
-        "score": 17.5,
+        "keyword": "Dario Amodei",
+        "rank": 13,
+        "score": 16.0,
         "posts": 2,
         "authors": 2
       },
       {
         "keyword": "Germany",
-        "rank": 5,
+        "rank": 14,
         "score": 15.8,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "France's",
-        "rank": 6,
+        "rank": 15,
         "score": 14.0,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "Europe",
-        "rank": 7,
+        "rank": 16,
         "score": 14.0,
         "posts": 2,
         "authors": 1
       },
       {
         "keyword": "Halloween",
-        "rank": 8,
+        "rank": 17,
         "score": 13.7,
         "posts": 2,
         "authors": 2
       },
       {
+        "keyword": "Codex",
+        "rank": 18,
+        "score": 13.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
         "keyword": "French",
-        "rank": 9,
+        "rank": 19,
         "score": 11.9,
         "posts": 2,
         "authors": 1
+      },
+      {
+        "keyword": "training",
+        "rank": 20,
+        "score": 11.7,
+        "posts": 2,
+        "authors": 2
       }
     ]
   },
@@ -1050,97 +2004,173 @@
       "label48": "30.10 12:25 - 01.11 12:25 UTC"
     },
     "corpus": {
-      "posts": 27,
+      "posts": 39,
       "min_views": 5000,
       "lanes": {
         "watchlist": 26,
-        "outsider": 0,
+        "outsider": 12,
         "24h": 0,
         "trend_input": 1
       }
     },
     "summary": {
-      "top10_line": "TOP-10: 0/10 (0%) matched trends · coincidence/other 5, author/audience 3, visual 2",
-      "headline": "1 of 26 board hits (4%) matched 24-48 h trends. Median views: trend 20.4K vs non-trend 56.4K (mean 20.4K vs 287.3K). Watchlist: 1/26 on trend. 1 hits with video, median 187.5K vs 55.1K without.",
-      "takeaway": "Video beat no-video (187.5K vs 55.1K median): take the top radar topic and package it as a video or screencast (Europe / AI tax).",
+      "top10_line": "TOP-10: 3/10 (30%) matched trends · trend 3, author/audience 3, visual 2, coincidence/other 2",
+      "headline": "6 of 45 board hits (13%) matched 24-48 h trends. Median views: trend 57.0K vs non-trend 40.0K (mean 106.3K vs 190.8K). Watchlist: 0/26 on trend. 5 hits with video, median 20.0K vs 45.3K without.",
+      "takeaway": "Neither trend nor video decided it alone: keep the top radar topic, bet on a strong hook and usefulness (Claude / Opus 5.5).",
       "stats": {
         "all": {
-          "n": 26,
-          "trend_n": 1,
-          "trend_pct": 4,
-          "avg_trend": 20424,
-          "avg_other": 287337,
-          "median_trend": 20424,
-          "median_other": 56448,
+          "n": 45,
+          "trend_n": 6,
+          "trend_pct": 13,
+          "avg_trend": 106333,
+          "avg_other": 190751,
+          "median_trend": 57000,
+          "median_other": 40000,
           "verdicts": {
-            "trend": 1,
-            "visual": 6,
+            "trend": 6,
+            "visual": 12,
             "author/audience": 3,
-            "coincidence/other": 16
+            "coincidence/other": 24
           }
         },
         "watchlist": {
           "n": 26,
-          "trend_n": 1,
-          "trend_pct": 4,
-          "avg_trend": 20424,
-          "avg_other": 287337,
-          "median_trend": 20424,
-          "median_other": 56448,
-          "verdicts": {
-            "trend": 1,
-            "visual": 6,
-            "author/audience": 3,
-            "coincidence/other": 16
-          }
-        },
-        "outsiders": {
-          "n": 0,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": null,
+          "avg_other": 277071,
           "median_trend": null,
-          "median_other": null,
+          "median_other": 55796,
           "verdicts": {
             "trend": 0,
-            "visual": 0,
+            "visual": 6,
+            "author/audience": 3,
+            "coincidence/other": 17
+          }
+        },
+        "outsiders": {
+          "n": 19,
+          "trend_n": 6,
+          "trend_pct": 32,
+          "avg_trend": 106333,
+          "avg_other": 18111,
+          "median_trend": 57000,
+          "median_other": 3400,
+          "verdicts": {
+            "trend": 6,
+            "visual": 6,
             "author/audience": 0,
-            "coincidence/other": 0
+            "coincidence/other": 7
           }
         },
         "top10": {
           "n": 10,
-          "trend_n": 0,
-          "trend_pct": 0,
-          "avg_trend": null,
-          "avg_other": 669788,
-          "median_trend": null,
-          "median_other": 112308,
+          "trend_n": 3,
+          "trend_pct": 30,
+          "avg_trend": 190333,
+          "avg_other": 925039,
+          "median_trend": 190000,
+          "median_other": 187539,
           "verdicts": {
-            "trend": 0,
+            "trend": 3,
             "visual": 2,
             "author/audience": 3,
-            "coincidence/other": 5
+            "coincidence/other": 2
           }
         },
         "media": {
-          "video_n": 1,
-          "median_video": 187539,
-          "other_n": 25,
-          "median_other": 55145
+          "video_n": 5,
+          "median_video": 20000,
+          "other_n": 40,
+          "median_other": 45338
         }
       }
     },
     "topics": [
       {
+        "name": "Claude / Opus 5.5",
+        "keywords": [
+          "Claude",
+          "Opus 5.5"
+        ],
+        "posts_24h": 6,
+        "posts_48h": 9,
+        "views_24h": 245424,
+        "views_prev24h": 553784,
+        "views_48h": 799208,
+        "momentum": "up x1.86",
+        "heat_raw": 34.33,
+        "evidence": [
+          {
+            "handle": "@AnthropicAI",
+            "views": 491370,
+            "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+            "hook": "Automated red-teaming of emergent misalignment research.",
+            "lane": "trend_input"
+          },
+          {
+            "handle": "@nikhilx22",
+            "views": 81000,
+            "url": "https://x.com/nikhilx22/status/2116553282063577565",
+            "hook": "Anthropic has Claude Code, OpenAI has Codex, xAI has what?",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@binghott",
+            "views": 71000,
+            "url": "https://x.com/binghott/status/2116154952405950468",
+            "hook": "Favorite Claude Code function: a new session to find context.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "agents / Halloween",
+        "keywords": [
+          "agents",
+          "Halloween"
+        ],
+        "posts_24h": 5,
+        "posts_48h": 7,
+        "views_24h": 549917,
+        "views_prev24h": 546515,
+        "views_48h": 1096432,
+        "momentum": "up x2.24",
+        "heat_raw": 28.61,
+        "evidence": [
+          {
+            "handle": "@AnthropicAI",
+            "views": 491370,
+            "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+            "hook": "Automated red-teaming of emergent misalignment research.",
+            "lane": "trend_input"
+          },
+          {
+            "handle": "@halvenruns",
+            "views": 300000,
+            "url": "https://x.com/halvenruns/status/2116255352438329556",
+            "hook": "Prompting is over: swarms of 300-plus self-improving agents.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@AnatoliKopadze",
+            "views": 190000,
+            "url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+            "hook": "Best 90-minute course on building AI agents from scratch.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 83
+      },
+      {
         "name": "Europe / AI tax",
         "keywords": [
           "Germany",
-          "Europe",
-          "French",
           "France's",
-          "AI tax"
+          "AI tax",
+          "French",
+          "Europe"
         ],
         "posts_24h": 3,
         "posts_48h": 5,
@@ -1172,86 +2202,106 @@
             "lane": "watchlist"
           }
         ],
-        "heat": 100
-      },
-      {
-        "name": "agents / Halloween",
-        "keywords": [
-          "Halloween",
-          "agents"
-        ],
-        "posts_24h": 2,
-        "posts_48h": 4,
-        "views_24h": 26917,
-        "views_prev24h": 546515,
-        "views_48h": 573432,
-        "momentum": "steady x0.78",
-        "heat_raw": 13.34,
-        "evidence": [
-          {
-            "handle": "@AnthropicAI",
-            "views": 491370,
-            "url": "https://x.com/AnthropicAI/status/2116349211549843666",
-            "hook": "Automated red-teaming of emergent misalignment research.",
-            "lane": "trend_input"
-          },
-          {
-            "handle": "@emollick",
-            "views": 55145,
-            "url": "https://x.com/emollick/status/2116321075164500438",
-            "hook": "Dot advice and personal-agent UX critique.",
-            "lane": "watchlist"
-          },
-          {
-            "handle": "@emollick",
-            "views": 20424,
-            "url": "https://x.com/emollick/status/2116537058433081669",
-            "hook": "Ghost census Halloween project from Opus 5.5.",
-            "lane": "watchlist"
-          }
-        ],
-        "heat": 60
-      },
-      {
-        "name": "Claude / Opus 5.5",
-        "keywords": [
-          "Opus 5.5",
-          "Claude"
-        ],
-        "posts_24h": 1,
-        "posts_48h": 4,
-        "views_24h": 20424,
-        "views_prev24h": 553784,
-        "views_48h": 574208,
-        "momentum": "cooling x0.30",
-        "heat_raw": 11.57,
-        "evidence": [
-          {
-            "handle": "@AnthropicAI",
-            "views": 491370,
-            "url": "https://x.com/AnthropicAI/status/2116349211549843666",
-            "hook": "Automated red-teaming of emergent misalignment research.",
-            "lane": "trend_input"
-          },
-          {
-            "handle": "@levelsio",
-            "views": 48282,
-            "url": "https://x.com/levelsio/status/2116295552627323253",
-            "hook": "Claude Code taught the author a fade haircut via video course.",
-            "lane": "watchlist"
-          },
-          {
-            "handle": "@emollick",
-            "views": 20424,
-            "url": "https://x.com/emollick/status/2116537058433081669",
-            "hook": "Ghost census Halloween project from Opus 5.5.",
-            "lane": "watchlist"
-          }
-        ],
-        "heat": 52
+        "heat": 65
       }
     ],
     "ideas": [
+      {
+        "angle": "Work through the course in order, show the strongest lessons, and name the gaps for beginners.",
+        "format": "video",
+        "hook_en": "Anthropic engineers released a 90-minute course on building AI agents from scratch. I took it so you don't have to, here is what it teaches and what it skips.",
+        "keywords": [
+          "ai agents",
+          "Anthropic"
+        ],
+        "title": "The 90-minute agents course, actually taken",
+        "topic": "agents / Halloween",
+        "visual": "Video: course walkthrough with lesson chapters on screen.",
+        "visual_type": "video",
+        "why": "Anatoli course post 190,000 views; Halven swarms post 300,000 views.",
+        "x_keywords": [
+          "ai agents",
+          "Anthropic"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "Recreate both demos: follow a Claude Code video course for a hands-on skill, then run an Opus 5.5 Halloween build, and compare what each teaches well.",
+        "format": "video",
+        "hook_en": "Claude Code taught someone a fade through a talking video course, and Opus 5.5 dreamed up a ghost census for Halloween. Two very different AI teaching demos, one verdict.",
+        "keywords": [
+          "Opus 5.5",
+          "claude code"
+        ],
+        "title": "AI taught me a skill: Claude Code vs Opus 5.5",
+        "topic": "Claude / Opus 5.5",
+        "visual": "Video: split screen, video course on one side, ghost census map on the other.",
+        "visual_type": "video",
+        "why": "Haircut course post 48,282 views; ghost census post 20,424 views; Opus reaction post 14,132 views.",
+        "x_keywords": [
+          "claude code"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "Demo the setup live: agent one writes the design system, agent two polices new elements, and show a before/after dashboard.",
+        "format": "screencast",
+        "hook_en": "One agent builds a full design system with examples, a second agent enforces it on every UI element. That is how you 10x a vibe-coded dashboard with Claude Code.",
+        "keywords": [
+          "claude code"
+        ],
+        "title": "The two-agent dashboard design system",
+        "topic": "Claude / Opus 5.5",
+        "visual": "Screencast: dashboard before and after the design system pass.",
+        "visual_type": "screencast",
+        "why": "Dashboard method post 13,114 views.",
+        "x_keywords": [
+          "claude code"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "Take the ghost census idea, feed a location to a small agent workflow, and show the map it produces, plus where the data comes from.",
+        "format": "video",
+        "hook_en": "Opus 5.5 suggested a ghost census: pick a spot and see who died within 100 meters of it across history. Halloween is the perfect excuse to build it with AI agents.",
+        "keywords": [
+          "agents",
+          "Halloween",
+          "ai agents"
+        ],
+        "title": "Build a ghost census for your town",
+        "topic": "agents / Halloween",
+        "visual": "Video: screen recording of the census map building up around one location.",
+        "visual_type": "video",
+        "why": "Ghost census post 20,424 views; Halloween theme across the day's posts.",
+        "x_keywords": [
+          "ai agents"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "angle": "Profile the build: what data it took, what it handles, and why narrow beats general for support work.",
+        "format": "image",
+        "hook_en": "Someone trained the first AI on Portuguese customer support, and it is a reminder that the best AI agents are boring and specific: one language, one job.",
+        "keywords": [
+          "agents",
+          "ai agents"
+        ],
+        "title": "The first AI for Portuguese customer support",
+        "topic": "agents / Halloween",
+        "visual": "Image: chat mockup in Portuguese with the AI answering a support question.",
+        "visual_type": "image",
+        "why": "Portuguese support post 110,317 views.",
+        "x_keywords": [
+          "ai agents"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
       {
         "angle": "Walk through the three taxes in order, show the rates and the stated reasons, and end with what to watch next.",
         "format": "video",
@@ -1266,23 +2316,6 @@
         "visual": "Video: map graphic with the three taxes appearing per country, ending on a totals card.",
         "visual_type": "video",
         "why": "The Europe tax posts total 6,043,679 views, led by the 2,290,964-view Europe money post.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist-virals"
-      },
-      {
-        "angle": "Recreate both demos: follow a Claude Code video course for a hands-on skill, then run an Opus 5.5 Halloween build, and compare what each teaches well.",
-        "format": "video",
-        "hook_en": "Claude Code taught someone a fade through a talking video course, and Opus 5.5 dreamed up a ghost census for Halloween. Two very different AI teaching demos, one verdict.",
-        "keywords": [
-          "Claude",
-          "Opus 5.5"
-        ],
-        "title": "AI taught me a skill: Claude Code vs Opus 5.5",
-        "topic": "Claude / Opus 5.5",
-        "visual": "Video: split screen, video course on one side, ghost census map on the other.",
-        "visual_type": "video",
-        "why": "Haircut course post 48,282 views; ghost census post 20,424 views; Opus reaction post 14,132 views.",
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist-virals"
@@ -1305,23 +2338,6 @@
         "source": "watchlist-virals"
       },
       {
-        "angle": "Take the ghost census idea, feed a location to a small agent workflow, and show the map it produces, plus where the data comes from.",
-        "format": "video",
-        "hook_en": "Opus 5.5 suggested a ghost census: pick a spot and see who died within 100 meters of it across history. Halloween is the perfect excuse to build it with agents.",
-        "keywords": [
-          "agents",
-          "Halloween"
-        ],
-        "title": "Build a ghost census for your town",
-        "topic": "agents / Halloween",
-        "visual": "Video: screen recording of the census map building up around one location.",
-        "visual_type": "video",
-        "why": "Ghost census post 20,424 views; Halloween theme across the day's posts.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist-virals"
-      },
-      {
         "angle": "Turn the government guidance into a one-page checklist: 3, 7 and 10 day tiers, plus batteries and solar as the upgrade.",
         "format": "image",
         "hook_en": "AI-assisted attacks on infrastructure pushed prepping into the mainstream, and governments across Europe now publish stockpile guidance. Here is the sane version: water, food, batteries, solar.",
@@ -1336,65 +2352,36 @@
         "x_keywords": [],
         "x_rank": null,
         "source": "watchlist-virals"
-      },
-      {
-        "angle": "Demo the setup live: agent one writes the design system, agent two polices new elements, and show a before/after dashboard.",
-        "format": "screencast",
-        "hook_en": "One agent builds a full design system with examples, a second agent enforces it on every UI element. That is how you 10x a vibe-coded dashboard with Claude.",
-        "keywords": [
-          "Claude"
-        ],
-        "title": "The two-agent dashboard design system",
-        "topic": "Claude / Opus 5.5",
-        "visual": "Screencast: dashboard before and after the design system pass.",
-        "visual_type": "screencast",
-        "why": "Dashboard method post 13,114 views.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist-virals"
-      },
-      {
-        "angle": "Profile the build: what data it took, what it handles, and why narrow beats general for support work.",
-        "format": "image",
-        "hook_en": "Someone trained the first AI on Portuguese customer support, and it is a reminder that the best agents are boring and specific: one language, one job.",
-        "keywords": [
-          "agents"
-        ],
-        "title": "The first AI for Portuguese customer support",
-        "topic": "agents / Halloween",
-        "visual": "Image: chat mockup in Portuguese with the AI answering a support question.",
-        "visual_type": "image",
-        "why": "Portuguese support post 110,317 views.",
-        "x_keywords": [],
-        "x_rank": null,
-        "source": "watchlist-virals"
       }
     ],
     "articles": [
       {
         "keywords": [
-          "Europe",
-          "AI tax",
-          "Germany"
+          "ai agents",
+          "Anthropic",
+          "agents"
         ],
         "outline": [
-          "France's per-gigabyte levy: 0.055 euros, from proposal to passed tax",
-          "Germany's AI revenue tax plans and what they would hit",
-          "Italy's exit tax proposal and the wealth tax backdrop",
-          "Why pensions and welfare budgets are driving the hunt",
-          "What builders and founders should watch next"
+          "The swarms claim: 300-plus self-improving agents and a move to graphs",
+          "The 90-minute course on building AI agents from scratch",
+          "Opus 5.5 harnesses inside Anthropic engineering",
+          "What the prompting-is-over claim gets wrong",
+          "How to start: course first, then one small swarm"
         ],
-        "thesis": "Three tax moves in one week show European states hunting new revenue from foreign tech.",
-        "title": "Europe's tech tax wave: France, Germany, Italy",
-        "visual": "Cover: map of Europe with tax markers per country; inline: timeline of the week's tax posts.",
-        "why": "The four Europe tax posts total 6,043,679 views (2,290,964 + 1,845,717 + 1,843,702 + 63,296).",
-        "x_keywords": []
+        "thesis": "Three posts from one week argue the unit of AI work is shifting from prompts to swarms and harnesses.",
+        "title": "Prompting is over? Swarms, harnesses, and the agents course",
+        "visual": "Cover: swarm diagram beside a course chapter list; inline: starter checklist.",
+        "why": "Halven swarms post 300,000 views; Anatoli course post 190,000 views; Kyrox harnesses post 11,000 views.",
+        "x_keywords": [
+          "ai agents",
+          "Anthropic"
+        ]
       },
       {
         "keywords": [
-          "Claude",
           "Opus 5.5",
-          "Halloween"
+          "Halloween",
+          "claude code"
         ],
         "outline": [
           "Claude Code's talking video course for a fade haircut",
@@ -1407,12 +2394,15 @@
         "title": "AI that teaches: from fades to ghost censuses",
         "visual": "Cover: split image of a video course and a ghost map; inline: step cards for each demo.",
         "why": "The haircut course post drew 48,282 views, the ghost census 20,424, and the Opus reaction 14,132.",
-        "x_keywords": []
+        "x_keywords": [
+          "claude code"
+        ]
       },
       {
         "keywords": [
           "agents",
-          "Claude"
+          "claude code",
+          "ai agents"
         ],
         "outline": [
           "The first AI trained on Portuguese customer support",
@@ -1424,7 +2414,10 @@
         "title": "The quiet AI wins: support bots and design systems",
         "visual": "Cover: two panels, support chat and dashboard; inline: checklist for a narrow AI build.",
         "why": "Portuguese support post 110,317 views; dashboard method post 13,114 views.",
-        "x_keywords": []
+        "x_keywords": [
+          "claude code",
+          "ai agents"
+        ]
       }
     ],
     "why_hit": [
@@ -1461,9 +2454,11 @@
         "handle": "@levelsio",
         "lane": "watchlist",
         "views": 1843702,
-        "trend_match": 0,
+        "trend_match": 22,
         "verdict": "author/audience",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "ChatGPT"
+        ],
         "media": "text",
         "followers": null,
         "topic": "Europe / AI tax",
@@ -1601,9 +2596,11 @@
         "handle": "@emollick",
         "lane": "watchlist",
         "views": 56448,
-        "trend_match": 0,
+        "trend_match": 35,
         "verdict": "coincidence/other",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "OpenAI"
+        ],
         "media": "text",
         "followers": null,
         "topic": null,
@@ -1648,7 +2645,7 @@
         "trend_match": 35,
         "verdict": "coincidence/other",
         "matched_keywords": [
-          "Claude"
+          "Claude Code"
         ],
         "media": "text",
         "followers": null,
@@ -1689,15 +2686,15 @@
         "handle": "@emollick",
         "lane": "watchlist",
         "views": 20424,
-        "trend_match": 58,
-        "verdict": "trend",
+        "trend_match": 49,
+        "verdict": "coincidence/other",
         "matched_keywords": [
           "Opus 5.5",
           "Halloween"
         ],
         "media": "text",
         "followers": null,
-        "topic": "agents / Halloween",
+        "topic": "Claude / Opus 5.5",
         "self_quote": false,
         "note": "followers: no data"
       },
@@ -1706,9 +2703,11 @@
         "handle": "@tdinh_me",
         "lane": "watchlist",
         "views": 18295,
-        "trend_match": 0,
+        "trend_match": 35,
         "verdict": "visual",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "coding"
+        ],
         "media": "image",
         "followers": null,
         "topic": null,
@@ -1792,11 +2791,307 @@
         "handle": "@mreflow",
         "lane": "watchlist",
         "views": 6493,
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "coincidence/other",
         "matched_keywords": [
           "Halloween"
         ],
+        "media": "text",
+        "followers": null,
+        "topic": "agents / Halloween",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116255352438329556",
+        "handle": "@halvenruns",
+        "lane": "outsider",
+        "views": 300000,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Anthropic"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "agents / Halloween",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116191759231246768",
+        "handle": "@AnatoliKopadze",
+        "lane": "outsider",
+        "views": 190000,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "AI agents",
+          "Anthropic",
+          "Anthropic engineers"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "agents / Halloween",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116553282063577565",
+        "handle": "@nikhilx22",
+        "lane": "outsider",
+        "views": 81000,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude Code",
+          "Anthropic",
+          "OpenAI"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116154952405950468",
+        "handle": "@binghott",
+        "lane": "outsider",
+        "views": 71000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude Code"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116525612097585341",
+        "handle": "@rosenacry",
+        "lane": "outsider",
+        "views": 51000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116142351186088301",
+        "handle": "@HeyAbhishek",
+        "lane": "outsider",
+        "views": 40000,
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ChatGPT"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116574922466091517",
+        "handle": "@Pauline_Cx",
+        "lane": "outsider",
+        "views": 39000,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude Code"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116177385527624042",
+        "handle": "@v3lkera",
+        "lane": "outsider",
+        "views": 33000,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "AI agents"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "agents / Halloween",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116754642222616835",
+        "handle": "@business",
+        "lane": "outsider",
+        "views": 23000,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude Code",
+          "coding"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116462758908850285",
+        "handle": "@AlltheLatestAI",
+        "lane": "outsider",
+        "views": 20000,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116537350519947551",
+        "handle": "@kyr0stack",
+        "lane": "outsider",
+        "views": 11000,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Anthropic",
+          "Opus 5.5",
+          "Anthropic engineers"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116720741508952191",
+        "handle": "@engadget",
+        "lane": "outsider",
+        "views": 5900,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116554322372591866",
+        "handle": "@databricks",
+        "lane": "outsider",
+        "views": 3400,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": "agents / Halloween",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116615024806445128",
+        "handle": "@Sabrina7772",
+        "lane": "outsider",
+        "views": 1900,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116751108681167288",
+        "handle": "@Dipanshu_AI",
+        "lane": "outsider",
+        "views": 1200,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116409961148281063",
+        "handle": "@ArdenBuilds",
+        "lane": "outsider",
+        "views": 768,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116528039009902619",
+        "handle": "@0xkichiro",
+        "lane": "outsider",
+        "views": 730,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": "Claude / Opus 5.5",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116757643045790018",
+        "handle": "@AMADuMetax",
+        "lane": "outsider",
+        "views": 342,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2116767645551014109",
+        "handle": "@tanu_hehe",
+        "lane": "outsider",
+        "views": 199,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
         "media": "text",
         "followers": null,
         "topic": "agents / Halloween",
@@ -1813,7 +3108,234 @@
       "self_quote": "self-quote",
       "no_data": "no data"
     },
-    "x_keywords": null,
+    "x_keywords": {
+      "fetched_at": "2026-11-01T06:35:00+00:00",
+      "window_start": "2026-10-30T06:35:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [
+        "Gemini",
+        "Grok",
+        "MCP",
+        "Codex",
+        "vibe coding",
+        "open source",
+        "prompt injection",
+        "AI video",
+        "LLM",
+        "Cursor",
+        "second brain"
+      ],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "OpenAI",
+          "query": "\"OpenAI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 3,
+            "total": 70005,
+            "median": 19000,
+            "top": {
+              "views": 51000,
+              "url": "https://x.com/rosenacry/status/2116525612097585341",
+              "handle": "@rosenacry",
+              "text": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla."
+            }
+          },
+          "prev24": {
+            "n": 3,
+            "total": 21630,
+            "median": 1900,
+            "top": {
+              "views": 19000,
+              "url": "https://x.com/emollick/status/2116721995178225799",
+              "handle": "@emollick",
+              "text": "Reflection on GPT-4 as the best model less than three years ago and speculation about OpenAI's secret methods."
+            }
+          },
+          "w48": {
+            "n": 6,
+            "total": 91635,
+            "top": {
+              "views": 51000,
+              "url": "https://x.com/rosenacry/status/2116525612097585341",
+              "handle": "@rosenacry",
+              "text": "Reaction post about OpenAI co-founder Andrej Karpathy's eight years at OpenAI and Tesla."
+            }
+          },
+          "change": 3.24,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 1
+        },
+        {
+          "keyword": "Anthropic",
+          "query": "\"Anthropic\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 3,
+            "total": 32200,
+            "median": 11000,
+            "top": {
+              "views": 20000,
+              "url": "https://x.com/AlltheLatestAI/status/2116462758908850285",
+              "handle": "@AlltheLatestAI",
+              "text": "Dario Amodei on the countdown to AI writing all code, now measured in months."
+            }
+          },
+          "prev24": {
+            "n": 3,
+            "total": 883000,
+            "median": 300000,
+            "top": {
+              "views": 502000,
+              "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+              "handle": "@AnthropicAI",
+              "text": "New research on automating subtle emergent misalignment red-teaming."
+            }
+          },
+          "w48": {
+            "n": 6,
+            "total": 915200,
+            "top": {
+              "views": 502000,
+              "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+              "handle": "@AnthropicAI",
+              "text": "New research on automating subtle emergent misalignment red-teaming."
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.62,
+          "rank": 2
+        },
+        {
+          "keyword": "Claude Code",
+          "query": "\"Claude Code\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 5,
+            "total": 24029,
+            "median": 130,
+            "top": {
+              "views": 23000,
+              "url": "https://x.com/business/status/2116754642222616835",
+              "handle": "@business",
+              "text": "Report of DeepSeek's prototype of a more autonomous coding agent challenging Claude Code."
+            }
+          },
+          "prev24": {
+            "n": 3,
+            "total": 1310000,
+            "median": 71000,
+            "top": {
+              "views": 1200000,
+              "url": "https://x.com/cursor_ai/status/2116074289053175808",
+              "handle": "@cursor_ai",
+              "text": "Security incident notice: modified Claude Code extension in the Cursor marketplace affecting at most 5,000 users."
+            }
+          },
+          "w48": {
+            "n": 8,
+            "total": 1334029,
+            "top": {
+              "views": 1200000,
+              "url": "https://x.com/cursor_ai/status/2116074289053175808",
+              "handle": "@cursor_ai",
+              "text": "Security incident notice: modified Claude Code extension in the Cursor marketplace affecting at most 5,000 users."
+            }
+          },
+          "change": 0.02,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.96,
+          "rank": 3
+        },
+        {
+          "keyword": "ChatGPT",
+          "query": "\"ChatGPT\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 4,
+            "total": 7296,
+            "median": 633,
+            "top": {
+              "views": 5900,
+              "url": "https://x.com/engadget/status/2116720741508952191",
+              "handle": "@engadget",
+              "text": "Privacy explainer: major AI tools collect conversations, with opt-out instructions."
+            }
+          },
+          "prev24": {
+            "n": 3,
+            "total": 46330,
+            "median": 5900,
+            "top": {
+              "views": 40000,
+              "url": "https://x.com/HeyAbhishek/status/2116142351186088301",
+              "handle": "@HeyAbhishek",
+              "text": "AI anime short film storyboard made with ChatGPT."
+            }
+          },
+          "w48": {
+            "n": 7,
+            "total": 53626,
+            "top": {
+              "views": 40000,
+              "url": "https://x.com/HeyAbhishek/status/2116142351186088301",
+              "handle": "@HeyAbhishek",
+              "text": "AI anime short film storyboard made with ChatGPT."
+            }
+          },
+          "change": 0.16,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.81,
+          "rank": 4
+        },
+        {
+          "keyword": "AI agents",
+          "query": "\"AI agents\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 2102,
+            "median": 162,
+            "top": {
+              "views": 767,
+              "url": "https://x.com/ArdenBuilds/status/2116409961148281063",
+              "handle": "@ArdenBuilds",
+              "text": "Call for people building with AI agents: Claude Code and Codex users, Go and backend developers, self-hosters, solo foun"
+            }
+          },
+          "prev24": {
+            "n": 5,
+            "total": 227377,
+            "median": 3400,
+            "top": {
+              "views": 190000,
+              "url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+              "handle": "@AnatoliKopadze",
+              "text": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen."
+            }
+          },
+          "w48": {
+            "n": 15,
+            "total": 229479,
+            "top": {
+              "views": 190000,
+              "url": "https://x.com/AnatoliKopadze/status/2116191759231246768",
+              "handle": "@AnatoliKopadze",
+              "text": "Anthropic engineers' 90-minute course on building AI agents from scratch, praised as the best the author has seen."
+            }
+          },
+          "change": 0.01,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.36,
+          "rank": 5
+        }
+      ]
+    },
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   }
 }
